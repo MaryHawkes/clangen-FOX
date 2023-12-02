@@ -185,7 +185,7 @@
         "biome": "beach",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "two_apprentices", "platonic", "respect", "rel_patrol", "no_change_fail"],
-        "intro_text": "It's nice to get the chance to go out hunting with app2. app1 knows they're still in the apprentice den together, but with different mentors and focuses and skills - it's not the same as it was back in the nursery as littermates. And outrunning the leaf-fall fuelled dark waves that chase up and down the beach is endlessly entertaining!",
+        "intro_text": "It's nice to get the chance to go out hunting with app2. app1 knows they're still in the apprentice den together, but with different mentors and focuses and skills - it's not the same as it was back in the nursery as littermates. And outrunning the leaf-fall fueled dark waves that chase up and down the beach is endlessly entertaining!",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 20,
@@ -215,7 +215,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back b_tp_a_p.",
+            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back b_tp_a_p.",
 	        "stat_skill": "s_c spends half the patrol in the heavy waves of the tidal zone, both impressing and frustrating the sibling trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -261,7 +261,7 @@
         "biome": "beach",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "three_apprentices", "platonic", "respect", "rel_patrol", "no_change_fail"],
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fuelled dark waves that chase up and down the beach is endlessly entertaining!",
+        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fueled dark waves that chase up and down the beach is endlessly entertaining!",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -291,7 +291,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the heavy waves of the tidal zone, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -337,7 +337,7 @@
         "biome": "beach",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "four_apprentices", "platonic", "respect", "rel_patrol", "no_change_fail"],
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fuelled dark waves that chase up and down the beach is endlessly entertaining!",
+        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fueled dark waves that chase up and down the beach is endlessly entertaining!",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -367,7 +367,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the heavy waves of the tidal zone, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -413,7 +413,7 @@
         "biome": "beach",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "five_apprentices", "platonic", "respect", "rel_patrol", "no_change_fail"],
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fuelled dark waves that chase up and down the beach is endlessly entertaining!",
+        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fueled dark waves that chase up and down the beach is endlessly entertaining!",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -443,7 +443,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the heavy waves of the tidal zone, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -489,7 +489,7 @@
         "biome": "beach",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "six_apprentices", "platonic", "respect", "rel_patrol", "no_change_fail"],
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fuelled dark waves that chase up and down the beach is endlessly entertaining!",
+        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentice den, but with different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN/app1/poss} littermates. And outrunning the leaf-fall fueled dark waves that chase up and down the beach is endlessly entertaining!",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -519,7 +519,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's b_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two b_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back b_tp_a_p than the b_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the heavy waves of the tidal zone, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -544,8 +544,8 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 collects two b_tp_l_p, and watches p_l take down a b_mp_a_s in a astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's b_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two b_tp_l_p, and watches p_l take down a b_mp_a_s in an astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's b_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -619,8 +619,8 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 collects two b_tp_l_p, and watches p_l take down a b_mp_a_s in a astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two b_mp_l_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's b_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two b_tp_l_p, and watches p_l take down a b_mp_a_s in an astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two b_mp_l_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's b_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -727,7 +727,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "Sometimes, the prey just doesn't run, and today is one of those times.",
-            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock settin up a good pounce a rogue wave washes them into the ocean - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
+            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock setting up a good pounce a rogue wave washes them into the ocean - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
             },
         "win_skills": ["SWIMMER,1"],
         "min_cats": 2,
@@ -856,7 +856,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "Sometimes, the prey just doesn't run, and today is one of those times.",
-            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock settin up a good pounce a rogue wave washes them into the ocean - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
+            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock setting up a good pounce a rogue wave washes them into the ocean - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
             },
         "win_skills": ["SWIMMER,1"],
         "min_cats": 3,
@@ -928,7 +928,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "It's not their normal task, but they're all smart enough to value supporting the Clan's medicine den. The patrol brings the herbs back to camp and they are put to good use.",
-            "stat_skill": "s_c carefully plucks some of the herbs and takes them back to the camp to be identified before the patrol goes to the trouble of collecting them, smartly decideding to get an informed opinion before committing the patrol."
+            "stat_skill": "s_c carefully plucks some of the herbs and takes them back to the camp to be identified before the patrol goes to the trouble of collecting them, smartly deciding to get an informed opinion before committing the patrol."
         },
         "fail_text": {
             "unscathed_common": "The patrol brings the herbs back to camp, only to find out that while the herbs promote good gut health, they're not a rare resource. Still, c_n will be eating an extra healthy dinner tonight with the herbs sprinkled into their freshkill."

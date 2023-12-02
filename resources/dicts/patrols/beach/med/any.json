@@ -211,7 +211,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "p_l finds plenty of cobwebs, gently collecting them on the ends of sticks. No cat will have the chance to bleed out - not now, with so many cobwebs to staunch their wounds!",
-            "unscathed_rare": "p_l visits a few of {PRONOUN/p_l/poss} favourite places to gather cobwebs. When {PRONOUN/p_l/subject} {VERB/p_l/get/gets} back to camp, {PRONOUN/p_l/subject} {VERB/p_l/end/ends} up startling several cats on {PRONOUN/p_l/poss} way back to {PRONOUN/p_l/poss} den - p_l is practically a walking cobweb, impossible to see beneath the sheer mass {PRONOUN/p_l/subject} {VERB/p_l/have/has} gathered."
+            "unscathed_rare": "p_l visits a few of {PRONOUN/p_l/poss} favorite places to gather cobwebs. When {PRONOUN/p_l/subject} {VERB/p_l/get/gets} back to camp, {PRONOUN/p_l/subject} {VERB/p_l/end/ends} up startling several cats on {PRONOUN/p_l/poss} way back to {PRONOUN/p_l/poss} den - p_l is practically a walking cobweb, impossible to see beneath the sheer mass {PRONOUN/p_l/subject} {VERB/p_l/have/has} gathered."
         },
         "fail_text": {
             "unscathed_common": "Over-tired from caring for {PRONOUN/p_l/poss} patients all day and night, the only cobwebs p_l manages to 'collect' are the ones {PRONOUN/p_l/subject} accidentally walked into."
@@ -240,7 +240,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "p_l finds plenty of cobwebs, gently collecting them on the ends of sticks. app1 works hard alongside {PRONOUN/p_l/self} to gather as many as they can, {PRONOUN/p_l/poss} eyes glittering with joy and pride as {PRONOUN/app1/subject} {VERB/p_l/work/works}.",
-            "unscathed_rare": "p_l takes app1 to a few of {PRONOUN/p_l/poss} favourite places to gather cobwebs. When they get back to camp, they end up startling several cats on their way back to their den - p_l and app1 are practically walking cobwebs, impossible to see beneath the sheer mass they have gathered."
+            "unscathed_rare": "p_l takes app1 to a few of {PRONOUN/p_l/poss} favorite places to gather cobwebs. When they get back to camp, they end up startling several cats on their way back to their den - p_l and app1 are practically walking cobwebs, impossible to see beneath the sheer mass they have gathered."
         },
         "fail_text": {
             "unscathed_common": "app1 doesn't seem to be able to focus today, and p_l isn't much better off, tired from teaching {PRONOUN/p_l/poss} apprentice and caring for {PRONOUN/p_l/poss} patients. After app1 accidentally ruins a cobweb while playing with it, p_l decides to call the whole thing off and try again another day."
@@ -270,7 +270,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "p_l mrrps with laughter, watching r_c parade around with such a big bundle of cobwebs that {PRONOUN/r_c/subject} {VERB/r_c/keep/keeps} colliding with things in {PRONOUN/r_c/poss} path {PRONOUN/r_c/subject} can't see. The entire patrol has gotten a wonderful haul, and it's a very pleased medicine cat that leads them back to camp.",
-            "unscathed_rare": "The patrol brings back a truly massive haul, and return in good humour, laughing as {PRONOUN/p_l/subject} set down {PRONOUN/p_l/poss} sticks of spun-up webbing in the medicine cat den. p_l joins everyone as they sit down to share tongues, ridding their pelts of dust and the odd spider as the cats catch up with each other and enjoy the day.",
+            "unscathed_rare": "The patrol brings back a truly massive haul, and return in good humor, laughing as {PRONOUN/p_l/subject} set down {PRONOUN/p_l/poss} sticks of spun-up webbing in the medicine cat den. p_l joins everyone as they sit down to share tongues, ridding their pelts of dust and the odd spider as the cats catch up with each other and enjoy the day.",
             "stat_skill": "s_c's keen eyes have a knack for spotting the gossamer-thin strands of cobwebs, and with the patrol there to follow {PRONOUN/s_c/poss} lead, it's a very successful gathering mission."
         },
         "fail_text": {
@@ -635,7 +635,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "It makes app1 laugh, muffled through {PRONOUN/app1/poss} own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
-            "unscathed_rare": "<i>Murrp</i>ing with laughter, app1 clacks the stick {PRONOUN/app1/subject} {VERB/app1/hold/holds} in {PRONOUN/app1/poss} own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices muffled purrs and laughs."
+            "unscathed_rare": "<i>Murrp</i>ing with laughter, app1 clacks the stick {PRONOUN/app1/subject} {VERB/app1/hold/holds} in {PRONOUN/app1/poss} own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices' muffled purrs and laughs."
         },
         "fail_text": {
             "unscathed_common": "The apprentices spend the entire patrol messing around with their sticks, even when there's cobwebs spun around the ends of them, and they end up completely ruining what they've gathered.."
@@ -667,7 +667,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "app3 ignores it, but it makes app1 laugh, muffled through {PRONOUN/app1/poss} own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
-            "unscathed_rare": "<i>Murrp</i>ing with laughter, app1 clacks the stick {PRONOUN/app1/subject} {VERB/app1/hold/holds} in {PRONOUN/app1/poss} own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices muffled purrs and laughs, even though app3 seems solely focused on the chore, content to let the others muck about so long as everything gets done."
+            "unscathed_rare": "<i>Murrp</i>ing with laughter, app1 clacks the stick {PRONOUN/app1/subject} {VERB/app1/hold/holds} in {PRONOUN/app1/poss} own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices' muffled purrs and laughs, even though app3 seems solely focused on the chore, content to let the others muck about so long as everything gets done."
         },
         "fail_text": {
             "unscathed_common": "The apprentices spend the entire patrol messing around with their sticks, even when there's cobwebs spun around the ends of them, and they end up completely ruining what they've gathered.."
@@ -793,8 +793,8 @@
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "It's a long, weird, hard day. <i>Yes,</i> they cobwebs. <i>Yes,</i> they bring them back to camp - but by StarClan, none of the warrior apprentices were expecting something as simple as cobweb gathering to be so hard, not when it feels like they run into one every other hunt! They definitely end up with a new appreciation for p_l's skills.",
-            "unscathed_rare": "... However, once out of camp, the apprentices realise they're out of their depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
+            "unscathed_common": "It's a long, weird, hard day. <i>Yes,</i> the cobwebs. <i>Yes,</i> they bring them back to camp - but by StarClan, none of the warrior apprentices were expecting something as simple as cobweb gathering to be so hard, not when it feels like they run into one every other hunt! They definitely end up with a new appreciation for p_l's skills.",
+            "unscathed_rare": "... However, once out of camp, the apprentices realize they're out of their depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
         },
         "fail_text": {
             "unscathed_common": "p_l is disgusted with the general disdain {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} from the other apprentices, and how hypocritical it is to tell them herb gathering is easy when the patrol hasn't found <i>any</i> cobwebs! {PRONOUN/p_l/subject/CAP} {VERB/p_l/stalk/stalks} back to the medicine cat den in a huff, unable to bear being near the other apprentices for any longer than {PRONOUN/p_l/subject} {VERB/p_l/have/has} been."
@@ -825,7 +825,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "It's a long, weird, hard day. <i>Yes,</i> they find cobwebs. <i>Yes,</i> they bring them back to camp - but by StarClan, none of the warrior apprentices were expecting something as simple as cobweb gathering to be so hard, not when it feels like they run into one every other hunt! They definitely end up with a new appreciation for p_l's skills.",
-            "unscathed_rare": "... However, once out of camp, the apprentices realise they're out of their depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
+            "unscathed_rare": "... However, once out of camp, the apprentices realize they're out of their depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
         },
         "fail_text": {
             "unscathed_common": "p_l is disgusted with the general disdain {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} from the other apprentices, and how hypocritical it is to tell them herb gathering is easy when the patrol hasn't found <i>any</i> cobwebs! {PRONOUN/p_l/subject/CAP} {VERB/p_l/stalk/stalks} back to the medicine cat den in a huff, unable to bear being near the other apprentices for any longer than {PRONOUN/p_l/subject} {VERB/p_l/have/has} been."
@@ -888,7 +888,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "It's a long, weird, hard day. <i>Yes,</i> they find cobwebs. <i>Yes,</i> they bring them back to camp - but by StarClan, none of the warrior apprentices were expecting something as simple as cobweb gathering to be so hard, not when it feels like they run into one every other hunt! {PRONOUN/p_l/subject/CAP} definitely end up with a new appreciation for p_l's skills.",
-            "unscathed_rare": "... However, once out of camp, the apprentices realise {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} out of {PRONOUN/p_l/poss} depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
+            "unscathed_rare": "... However, once out of camp, the apprentices realize {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} out of {PRONOUN/p_l/poss} depth, and turn to p_l for help. p_l, to {PRONOUN/p_l/poss} credit, is very gracious about it, not making anyone feel stupid, and by the time the patrol returns with a successful haul there's a new feeling of rapport between everyone, regardless of their role."
         },
         "fail_text": {
             "unscathed_common": "p_l is disgusted with the general disdain {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} from the other apprentices, and how hypocritical it is to tell them herb gathering is easy when the patrol hasn't found <i>any</i> cobwebs! {PRONOUN/p_l/subject/CAP} {VERB/p_l/stalk/stalks} back to the medicine cat den in a huff, unable to bear being near the other apprentices for any longer than {PRONOUN/p_l/subject} {VERB/p_l/have/has} been."
@@ -915,7 +915,7 @@
             "respect",
             "romantic"
         ],
-        "intro_text": "p_l comes up to meet app2, quietly apologising about app2 being sent to help p_l collect moss.",
+        "intro_text": "p_l comes up to meet app2, quietly apologizing about app2 being sent to help p_l collect moss.",
         "decline_text": "They're called back to camp, needed for other chores.",
         "chance_of_success": 70,
         "exp": 20,

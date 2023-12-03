@@ -102,7 +102,7 @@
         },
         "fail_text": {
             "unscathed_common": "The patrol dives into the water, keen to make a play to steal the fish, but even though its talons are occupied keeping grip on its prey, the eagle's huge wings pack a buffeting punch and they are driven back, giving up on the idea of scavenging.",
-            "unscathed_stat": "Far too keen to try and prove {PRONOUN/s_c/self} against the king of the skies, s_c leaps for the eagle and startles it into flight with it's massive catch, and the opportunity is lost.",
+            "unscathed_stat": "Far too keen to try and prove {PRONOUN/s_c/self} against the king of the skies, s_c leaps for the eagle and startles it into flight with its massive catch, and the opportunity is lost.",
             "injury": "The patrol decides to fight the eagle in the water for possession of the prey, but while it's talons are occupied holding on to its prey, its beak is not, and it takes a nasty chunk out of r_c before the cats retreat.",
             "stat_injury": "Keen to prove {PRONOUN/s_c/self}, s_c dives into the water and leaps for the eagle. Instead what {PRONOUN/s_c/subject} {VERB/s_c/get/gets} is a damp, cold trip in the chilled leaf-fall water, and the associated chills that come with that."
         },
@@ -183,7 +183,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "The littermates end up dirty, exhausted, and without much more than a m_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
-	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} sibling helps {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
+	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery, rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} sibling helps {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
             },
         "win_skills": ["HUNTER,0"],
         "min_cats": 2,
@@ -229,7 +229,7 @@
         "chance_of_success": 35,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back m_tp_p.",
+            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back m_tp_p.",
 	        "stat_skill": "s_c spends half the patrol in the branches of the conifer forest covering the slopes, both impressing and frustrating the sibling trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -259,7 +259,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "The littermates end up dirty, exhausted, and without much more than a m_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
-	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
+	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery, rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
             },
         "win_skills": ["HUNTER,0"],
         "min_cats": 3,
@@ -305,7 +305,7 @@
         "chance_of_success": 35,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the branches of the conifer forest covering the slopes, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -335,7 +335,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "The littermates end up dirty, exhausted, and without much more than a m_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
-	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
+	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery, rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
             },
         "win_skills": ["HUNTER,0"],
         "min_cats": 4,
@@ -381,7 +381,7 @@
         "chance_of_success": 35,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the branches of the conifer forest covering the slopes, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -411,7 +411,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "The littermates end up dirty, exhausted, and without much more than a m_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
-	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
+	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery, rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
             },
         "win_skills": ["HUNTER,0"],
         "min_cats": 5,
@@ -457,7 +457,7 @@
         "chance_of_success": 35,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the branches of the conifer forest covering the slopes, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -487,7 +487,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "The littermates end up dirty, exhausted, and without much more than a m_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
-	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
+	        "injury": "app1 takes a hard fall while chasing a m_tp_s along a slippery, rocky path, and the afternoon's hunt is called off as {PRONOUN/app1/poss} siblings help {PRONOUN/app1/object} back to camp, chatting reassuringly about how hard their hunting lessons are."
             },
         "win_skills": ["HUNTER,0"],
         "min_cats": 6,
@@ -533,7 +533,7 @@
         "chance_of_success": 35,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's m_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two m_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back m_tp_p than the m_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol in the branches of the conifer forest covering the slopes, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -558,8 +558,8 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 collects two m_tp_p, and watches p_l take down a m_mp_s in a astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's m_tp_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two m_tp_p, and watches p_l take down a m_mp_s in an astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's m_tp_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -578,7 +578,7 @@
         "biome": "mountainous",
         "season": "leaf-fall",
         "tags": ["hunting", "medium_prey", "warrior", "adult_stat", "apprentice", "one_apprentice", "respect", "platonic", "rel_patrol"],
-        "intro_text": "As they clamber up an down the rocky ridges, keeping their paws out of the muddy mountain slopes, p_l awkwardly asks app1 how {PRONOUN/app1/subject} think {PRONOUN/app1/poss} training is going.",
+        "intro_text": "As they clamber up and down the rocky ridges, keeping their paws out of the muddy mountain slopes, p_l awkwardly asks app1 how {PRONOUN/app1/subject} think {PRONOUN/app1/poss} training is going.",
         "decline_text": "app1 carefully talks around the subject, telling p_l nothing of importance.",
         "chance_of_success": 40,
         "exp": 20,
@@ -633,8 +633,8 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 collects two m_tp_p, and watches p_l take down a m_mp_s in a astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two m_mp_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's m_tp_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two m_tp_p, and watches p_l take down a m_mp_s in an astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two m_mp_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's m_tp_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -684,8 +684,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A m_mp_s and two m_tp_p is nothing to sniff at, as a hunting success, but stars above being alone with r_c makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them two healthy m_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them two healthy m_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -813,8 +813,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A m_mp_s, three m_tp_p, and a couple m_mp_p are nothing to sniff at, as a hunting success, but stars above being alone with {PRONOUN/p_l/poss} siblings makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them four healthy m_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them four healthy m_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -1000,7 +1000,7 @@
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Despite the snow, r_c manages to hunt successfully, ambushing a blackbird as it feast on leaf-fall berries.",
+            "unscathed_common": "Despite the snow, r_c manages to hunt successfully, ambushing a blackbird as it feasts on leaf-fall berries.",
             "stat_skill": "s_c really shows {PRONOUN/s_c/poss} talent, bringing a clutch of mice back to camp for the fresh-kill pile."
         },
         "fail_text": {
@@ -1041,7 +1041,7 @@
         "success_text": {
             "unscathed_common": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. The cats dig a snow-den and cuddle together, sharing what little warmth they have. Each cat takes a turn on the side nearest the entrance tunnel, selflessly risking themselves.",
             "stat_skill": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. s_c keeps everyone's spirits up as the patrol hides in a mountain cave, until everyone is talking, shaky and unhappy, but keeping each other's spirits up.",
-            "stat_trait": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. As the cats hide under shrubbery of a sheltered valley, s_c keeps an eye out for everyone. It's a long couple of hours, but with gentle understanding and compassion the cats make it though safely, closer than ever afterwards."
+            "stat_trait": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. As the cats hide under shrubbery of a sheltered valley, s_c keeps an eye out for everyone. It's a long couple of hours, but with gentle understanding and compassion the cats make it through safely, closer than ever afterwards."
         },
         "fail_text": {
             "injury": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. When the snowstorm leaves, finally, and the cats trudge back home, r_c hasn't escaped unscathed, {PRONOUN/r_c/poss} body chilled and refusing to warm up properly."
@@ -1085,7 +1085,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller,  but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows {PRONOUN/s_c/poss} strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
@@ -1342,7 +1342,7 @@
         "exp": 40,
         "success_text": {
             "unscathed_common": "Before anyone can even speak, there's a loud crack from above. The cats scatter as a branch crashes down, bringing both squirrels and a shower of oak leaves with it! The patrol thinks fast, and pounce on the squirrels before they can escape. They head home with their bounty, each cat feeling quite pleased with themself.",
-            "unscathed_rare": "A mischievous look in their eye, the deputy challenges their Clanmates - whoever catches one of the squirrels gets to skip dawn patrol for a whole moon. They're all eager to shimmy up the trees at that, and before long someone calls out in triumph. Not only do they have the squirrel, they have a pawful of oak leaves for the medicine cat!",
+            "unscathed_rare": "A mischievous look in their eye, the deputy challenges their Clanmates - whoever catches one of the squirrels gets to skip dawn patrol for a whole moon. They're all eager to shimmy up the trees at that, and before long someone calls out in triumph. Not only do they have the squirrel, but they also have a pawful of oak leaves for the medicine cat too!",
             "stat_skill": "With a glint in their eye, s_c is up in the trees before anyone can say anything. There's rustling, a short pause, then squirrel carcasses begin falling to the ground, one by one. s_c descends when {PRONOUN/s_c/subject} {VERB/s_c/finish/finishes} with a mouthful of oak leaves, curling {PRONOUN/s_c/poss} tail in pride at the looks on {PRONOUN/s_c/poss} Clanmates faces."
         },
         "fail_text": {

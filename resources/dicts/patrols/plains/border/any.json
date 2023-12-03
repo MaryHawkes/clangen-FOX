@@ -69,7 +69,7 @@
             "no_body"
         ],
         "intro_text": "The patrol finds an opening to what seems to be a new set of tunnels.",
-        "decline_text": "The patrol decides not to check the tunnels. After all, who knows what might be hiding inside?.",
+        "decline_text": "The patrol decides not to check the tunnels. After all, who knows what might be hiding inside?",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
@@ -224,7 +224,7 @@
         },
         "fail_text": {
             "death": "The rogues are terrifyingly coordinated and are quick to use the patrol's momentary surprise to their advantage. The patrol cats are picked off one by one, only a couple managing to escape the slaughter.",
-            "injury": "The rogues posture and jeer, eventually provoking a battle. They proove to be strong fighters and eventually the patrol is forced to retreat, r_c badly injured."
+            "injury": "The rogues posture and jeer, eventually provoking a battle. They prove to be strong fighters and eventually the patrol is forced to retreat, r_c badly injured."
         },
         "win_skills": [
             "SPEAKER,1"
@@ -777,7 +777,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "It keeps the cats' minds off the distance they have to cover. The patrol goes quickly and easily.",
-            "stat_skill": "s_c spins a story, vivid and engaging, telling the tale of a massive war {PRONOUN/s_c/poss} ancestors fought over the border the patrol is headed to mark. Not only does it keep every cat entertained, it really emphasizes the importance of the patrol and motivates everyone.",
+            "stat_skill": "s_c spins a story, vivid and engaging, telling the tale of a massive war {PRONOUN/s_c/poss} ancestors fought over the border the patrol is headed to mark. Not only does it keep every cat entertained, but it also emphasizes the importance of the patrol and motivates everyone.",
             "stat_trait": "It's a fantastic idea, making the patrol fly by as cats chat and laugh with their Clanmates, and everyone ends the day feeling much closer to each other."
         },
         "fail_text": {

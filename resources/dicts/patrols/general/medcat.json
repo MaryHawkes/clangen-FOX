@@ -728,7 +728,7 @@
         "success_text": {
             "unscathed_common": "p_l and app2 walk with their tails entwined and pelts brushing together, thrilled to be able to patrol together. p_l doesn't regret becoming a medicine cat, but {PRONOUN/p_l/subject} {VERB/p_l/do/does} feel secluded at times, watching app2 train and patrol with everyone. The siblings make the most of their time together, returning home side-by-side with their jaws full of herbs.",
             "unscathed_rare": "p_l and app2 race through the territory together, hearts light with joy at being able to patrol together despite their different roles. So what if they take a little longer coming home than they should? They still return to camp with plenty of herbs! They deserve to have some sibling time for a change.",
-            "stat_trait": "s_c seems a little distracted, deep in thought about something. When app2 asks what's up, s_c blinks slowly at {PRONOUN/app2/object} before confessing how much {PRONOUN/s_c/subject} {VERB/s_c/miss/misses} spending time together. They burrow their noses into each others pelts and purr, soaking in the moment and their love for each other before continuing on, and promise to spend more time together. "
+            "stat_trait": "s_c seems a little distracted, deep in thought about something. When app2 asks what's up, s_c blinks slowly at {PRONOUN/app2/object} before confessing how much {PRONOUN/s_c/subject} {VERB/s_c/miss/misses} spending time together. They burrow their noses into each other's pelts and purr, soaking in the moment and their love for each other before continuing on, and promise to spend more time together. "
         },
         "fail_text": {
             "unscathed_common": "p_l and app2 are far too distracted playing and catching up with one another, and get nothing useful done.",
@@ -774,7 +774,7 @@
             "unscathed_common": "p_l and r_c walk with their tails entwined and pelts brushing together, thrilled to be able to patrol together. p_l doesn't regret becoming a medicine cat, but {PRONOUN/p_l/subject} {VERB/p_l/do/does} feel secluded at times, watching r_c train and patrol with everyone. The siblings make the most of their time together, returning home side-by-side with their jaws full of herbs.",
             "unscathed_rare": "p_l and r_c race through the territory together, hearts light with joy at being able to patrol together despite their different roles. So what if they take a little longer coming home than they should? They still return to camp with plenty of herbs! They deserve to have some sibling time for a change.",
             "stat_skill": "As s_c and r_c walk together, s_c finds {PRONOUN/s_c/poss} eyes drawn to an almost-unnoticeable gap between stones. Something about it feels important, so {PRONOUN/s_c/subject} {VERB/s_c/decide/decides} to investigate - a little patch of herbs hides within! r_c gushes with praise, telling s_c how amazing {PRONOUN/s_c/subject} {VERB/s_c/are/is} for noticing something so small, which sends a flush of pride through s_c's pelt.",
-            "stat_trait": "s_c seems a little distracted, deep in thought about something. When r_c asks what's up, s_c blinks slowly at {PRONOUN/r_c/object} before confessing how much {PRONOUN/s_c/subject} {VERB/s_c/miss/misses} spending time together. They burrow their noses into each others pelts and purr, soaking in the moment and their love for each other before continuing on, and promise to spend more time together. "
+            "stat_trait": "s_c seems a little distracted, deep in thought about something. When r_c asks what's up, s_c blinks slowly at {PRONOUN/r_c/object} before confessing how much {PRONOUN/s_c/subject} {VERB/s_c/miss/misses} spending time together. They burrow their noses into each other's pelts and purr, soaking in the moment and their love for each other before continuing on, and promise to spend more time together. "
         },
         "fail_text": {
             "unscathed_common": "p_l and r_c are far too distracted catching up with one another, and get nothing useful done.",
@@ -1034,7 +1034,7 @@
             "stat_skill": "r_c hums, and asks s_c what {PRONOUN/s_c/subject} {VERB/s_c/think/thinks} the nature of StarClan is. s_c doesn't hesitate before answering, {PRONOUN/s_c/poss} deep connection to {PRONOUN/s_c/poss} ancestors granting {PRONOUN/s_c/object} knowledge and insight r_c doesn't necessarily have. r_c is enthralled, and it feels all too soon that they pick the herbs and have their mouths too full to continue talking."
         },
         "fail_text": {
-            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since its been so long. How embarrassing!"
+            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since it's been so long. How embarrassing!"
         },
         "win_skills": [
             "STAR,2"
@@ -1068,7 +1068,7 @@
             "stat_skill": "r_c asks s_c if {PRONOUN/s_c/subject} {VERB/p_l/remember/remembers} a particular story the elders are fond of. s_c nods eagerly, and launches into recanting it. r_c is pleasantly surprised at how readily s_c recites the tale, listening to {PRONOUN/s_c/object} talk in content silence. s_c's thrilled to share {PRONOUN/s_c/poss} knowledge, and it's all too soon that they have their jaws too full of herbs to continue."
         },
         "fail_text": {
-            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since its been so long. How embarrassing!"
+            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since it's been so long. How embarrassing!"
         },
         "win_skills": [],
         "min_cats": 2,
@@ -1129,7 +1129,7 @@
             "unscathed_rare": "r_c, deep in thought, asks p_l if {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} considered taking on another apprentice. p_l swishes {PRONOUN/p_l/poss} tail, and asks what brought this on. {PRONOUN/r_c/subject/CAP} {VERB/r_c/were/was} honestly just wondering, r_c explains, as {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} not sure {PRONOUN/r_c/self} when {PRONOUN/r_c/subject} {VERB/r_c/want/wants} to. p_l nods, and says {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} been thinking about it - but they've reached the herbs, and have to pick them now."
         },
         "fail_text": {
-            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since its been so long. How embarrassing!"
+            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since it's been so long. How embarrassing!"
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -1159,7 +1159,7 @@
             "unscathed_rare": "r_c, deep in thought, tells p_l {PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} been considering taking on another apprentice. p_l swishes {PRONOUN/p_l/poss} tail, and asks what brought this on. {PRONOUN/r_c/subject/CAP} just {VERB/r_c/feel/feels} like the time is right, r_c explains, and {PRONOUN/r_c/subject} wanted p_l's opinion. p_l nods, and says {PRONOUN/p_l/subject}'ll answer back at camp - but they've reached the herbs, and have to pick them now."
         },
         "fail_text": {
-            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since its been so long. How embarrassing!"
+            "unscathed_common": "The two medicine cats walk in circles for a while, before realizing that they've completely forgotten where the herb patch is since it's been so long. How embarrassing!"
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -1183,7 +1183,7 @@
             "dislike",
             "jealousy"
         ],
-        "intro_text": "In order to spice up their patrol, p_l challenges app2 to a herb-gathering competition.",
+        "intro_text": "In order to spice up their patrol, p_l challenges app2 to an herb-gathering competition.",
         "decline_text": "app2 scoffs at p_l's silliness and stalks off, leaving p_l alone in {PRONOUN/p_l/poss} dismay.",
         "chance_of_success": 60,
         "exp": 10,
@@ -1244,12 +1244,12 @@
         "season": "Any",
         "tags": ["med_cat", "no_app", "warrior", "big_change", "dislike", "romantic", "rel_patrol", "herb_gathering", "herb", "catmint", "no_herbs0", "many_herbs1"],
         "intro_text": "p_l thinks r_c is a bit of a feather-brain, so when {PRONOUN/r_c/subject} come up to p_l while p_l is gathering herbs and suggest replenishing the Clan's catmint supply with a gleam in {PRONOUN/r_c/poss} eye, p_l hesitates.",
-        "decline_text": "{PRONOUN/p_l/subject/CAP} aren't going to go after a herb renowned for the silliness it can cause with a cat {PRONOUN/p_l/subject} dislike. It's simply a bad idea.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} aren't going to go after an herb renowned for the silliness it can cause with a cat {PRONOUN/p_l/subject} dislike. It's simply a bad idea.",
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
             "unscathed_common": "They find absolutely no catmint together, but strangely, r_c seems okay with that, just interested in chatting with p_l. So maybe {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} a <i>nice</i> feather-brain.",
-            "unscathed_rare": "Fine. c_n does need more catmint. When they come across the bush, sheltered and thriving, p_l watches r_c carefully take the stalks off the leaves. p_l only needs the leaves, so {PRONOUN/p_l/subject} don't mind watching r_c getting silly with the stalks. It's even a little thrilling, to be invited to join {PRONOUN/r_c/object}."
+            "unscathed_rare": "Fine. c_n does need more catmint. When they come across the bush, sheltered and thriving, p_l watches r_c carefully take the stalks off the leaves. p_l only needs the leaves, so {PRONOUN/p_l/subject} don't mind watching r_c getting silly with the stalks. It's even a little thrilling to be invited to join {PRONOUN/r_c/object}."
         },
         "fail_text": {
             "unscathed_common": "p_l politely declines. r_c insists. p_l <i>far less politely declines</i>."
@@ -1306,7 +1306,7 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "p_l and r_c search and harvest any herbs they can get their paws on. Later that day they reunite in front of the camp, just as the sun is setting, both their mouths stuffed full with herbs.",
+            "unscathed_common": "p_l and r_c search and harvest any herbs they can get their paws on. Later that day they reunite in front of the camp, just as the sun is setting, both their mouths stuffed full of herbs.",
             "unscathed_rare": "p_l and r_c decide to make a game of who can hunt the most herbs. They reunite when the sun is going down, and walk into camp purring and playfully shoving each other with both their mouths full of herbs."
         },
         "fail_text": {

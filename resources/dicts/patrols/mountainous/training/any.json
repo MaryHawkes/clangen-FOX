@@ -13,7 +13,7 @@
             "warrior"
         ],
         "intro_text": "The patrol wants to hold a training session for app1. They decide to focus on how best to leap up a rocky cliff.",
-        "decline_text": "They decide to focus on the patrolling the territory instead. Training can wait for another day.",
+        "decline_text": "They decide to focus on patrolling the territory instead. Training can wait for another day.",
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
@@ -139,9 +139,9 @@
             "stat_trait": "Carefully considering their options, s_c decides to set up a stakeout with the patrol. When the badger pokes its head above the ground at dusk, they're prepared, and in unison everyone turns for home. The cats fade into the grass before the predator has even blinked the sleep out of its eyes."
         },
         "fail_text": {
-            "unscathed_common": "The cats try to find enough rubble to barricade the opening to the sett, but the area is pretty bare. Before they know it they're tired, thirsty, and returning home with nothing to show for it.",
+            "unscathed_common": "The cats try to find enough rubble to barricade the opening to the sett, but the area is pretty bare. Before they know it, they're tired, thirsty, and returning home with nothing to show for it.",
             "unscathed_stat": "Well, the only way to know is to check! s_c scrambles into the den for a look, and it's only by the grace of StarClan that they're able to redirect that speed to twist around just as fast, furious fizzing following them up the burrow tunnel, leaving behind clumps of their own fur.",
-            "injury": "As the patrol is sniffing around the burrow entrance there's a clatter of rocks. It's difficult to say who's more surprised - cats or badger. There's a confused rush of paws and flying fur as the patrol scatters and the beast charges for the sett. r_c is battered in the process but everyone gets home safe in the end... including the badger."
+            "injury": "As the patrol is sniffing around the burrow entrance there's a clatter of rocks. It's difficult to say who's more surprised - the cats or the badger. There's a confused rush of paws and flying fur as the patrol scatters and the beast charges for the sett. r_c is battered in the process but everyone gets home safe in the end... including the badger."
         },
         "win_skills": [
             "CLEVER,1"
@@ -630,7 +630,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "app1 bursts out from cover, pouncing on app2 with claws sheathed and giggling. app2 rolls with the gentle blow and bats app1 off, bounding after them with promises of getting them back! On and on the chase goes, neither interested in winning it as they play under the light of the full moon.",
-            "unscathed_rare": "app2 emerges from the dark, trotting up to app1 and asking why they wanted to meet there. app1 looks away with a purr, making up some nonsense about fight training that makes no sense. Instead both apprentices hang out under the stars, awkward and thrilled.",
+            "unscathed_rare": "app2 emerges from the dark, trotting up to app1 and asking why they wanted to meet there. app1 looks away with a purr, making up some nonsense about fight training that makes no sense. Instead, both apprentices hang out under the stars, awkward and thrilled.",
             "stat_trait": "app2 emerges from the thick dark of the night, the stars reflected in their eyes. Seeing s_c, they trot up, asking why s_c wanted to meet there. Stuttering but determined, s_c explains that they wondered if, possibly, maybe, app2 would like to go on a... date? app2 looks away with a purr and murmurs a soft yes to the ground, suddenly unable to make eye contact."
         },
         "fail_text": {
@@ -670,7 +670,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The cats go out together in the late of the day, as the mountains catch the last of the light. r_c goes through their tricks, showing p_l how they shift their balance to make less noise on unstable scree slopes, as p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. They smirk, showing off a little.",
+            "unscathed_common": "The cats go out together later in the day, as the mountains catch the last of the light. r_c goes through their tricks, showing p_l how they shift their balance to make less noise on unstable scree slopes, as p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. They smirk, showing off a little.",
             "unscathed_rare": "It's a long but satisfying training session, with both cats having an in depth chance to test themselves and work on their skills. It ends with them both sitting on a little outlook, watching the sun go down and catching the last of its rays on their pelts. r_c sees p_l watching them instead of the sun, and smiles.",
             "stat_skill": "s_c is a fantastic hunter, and p_l isn't shy about telling them so. They blush, but work through it, showing p_l how to nearly surf on large rocks as they bound down slopes, giving them stable footing in the middle of a semi-controlled small landslide.",
             "stat_trait": "p_l marvels at the opportunity to have s_c's time to themselves. s_c is such a popular cat, so friendly and fun to be around, and yet when the training session draws to a close under the setting sun, s_c looks surprised to be told so."
@@ -868,7 +868,7 @@
             "no_change_fail",
             "warrior"
         ],
-        "intro_text": "As app1 follows p_l on a training patrol to learn the territory, there's a muffled thump behind them. They whirl around, finding a beady black eye and huge beak far far too close to them.",
+        "intro_text": "As app1 follows p_l on a training patrol to learn the territory, there's a muffled thump behind them. They whirl around, finding a beady black eye and huge beak far too close to them.",
         "decline_text": "Thinking better of it, the cats try to hunt instead.",
         "chance_of_success": 60,
         "exp": 15,
@@ -878,7 +878,7 @@
             "stat_skill": "app1 freezes in fear, but s_c comes up next to them, and bats a stone down the slope. The bird shrieks, startlingly loud, and waves its wings around. s_c offers it a branch from a shrub, dangling it like playing with a kit in the nursery, and the kea merrily hops after it, as p_l leads it teasingly away from app1. Later, app1 apologizes for being scared, and is shocked when s_c tells them that no, kea are very dangerous. "
         },
         "fail_text": {
-            "unscathed_common": "app1 screeches, and the kea shrieks back, an huge explosion of noise and feathers. Later, p_l tells app1 they're lucky the bird was entertained rather than scared or offended. Entertained?!?"
+            "unscathed_common": "app1 screeches, and the kea shrieks back, a huge explosion of noise and feathers. Later, p_l tells app1 they're lucky the bird was entertained rather than scared or offended. Entertained?!?"
         },
         "win_skills": [
             "SPEAKER,1",

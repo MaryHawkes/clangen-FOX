@@ -16,7 +16,7 @@
             "warrior"
         ],
         "intro_text": "The patrol wants to hold a training session for app1. They decide to focus on how best to hide within the tall grass.",
-        "decline_text": "They decide to focus on the patrolling the territory instead. Training can wait for another day.",
+        "decline_text": "They decide to focus on patrolling the territory instead. Training can wait for another day.",
         "chance_of_success": 60,
         "exp": 20,
         "success_text": {
@@ -142,9 +142,9 @@
             "stat_trait": "Carefully considering their options, s_c decides to set up a stakeout with the patrol. When the badger pokes its head above the ground at dusk, they're prepared, and in unison everyone turns for home. The cats fade into the grass before the predator has even blinked the sleep out of its eyes."
         },
         "fail_text": {
-            "unscathed_common": "The cats try to find enough bits of grass to block the opening to the sett, but it won't clump together and hold a shape. Before they know it they're tired, thirsty, and returning home with nothing to show for it.",
+            "unscathed_common": "The cats try to find enough bits of grass to block the opening to the sett, but it won't clump together and hold a shape. Before they know it, they're tired, thirsty, and returning home with nothing to show for it.",
             "unscathed_stat": "Well, the only way to know is to check! s_c scrambles into the den for a look and comes nose to nose with its occupant. It's only by the grace of StarClan that they're able to redirect that speed to twist around just as fast, shedding fur in clumps as the badger's furious snarling and fizzing follows them up the burrow tunnel.",
-            "injury": "As the patrol is sniffing around the burrow entrance there's a rustle from the grass. It's difficult to say who's more surprised - cats or badger. There's a confused rush of paws and flying fur as the patrol scatters and the beast charges for the sett. r_c is battered in the process but everyone gets home safe in the end. . . including the badger."
+            "injury": "As the patrol is sniffing around the burrow entrance there's a rustle from the grass. It's difficult to say who's more surprised - the cats or the badger. There's a confused rush of paws and flying fur as the patrol scatters and the beast charges for the sett. r_c is battered in the process but everyone gets home safe in the end. . . including the badger."
         },
         "win_skills": [
             "CLEVER,1"
@@ -635,7 +635,7 @@
         "success_text": {
             "unscathed_common": "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are.",
             "unscathed_rare": "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentice creeps forward to catch a glimpse of the bison, pelt standing on end.",
-            "stat_skill": "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
+            "stat_skill": "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoof steps, s_c brings app1 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
         },
         "fail_text": {
             "unscathed_common": "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it.",
@@ -704,7 +704,7 @@
         "success_text": {
             "unscathed_common": "app1 has their view blocked by the long grass and flat ground. But the rumble they feel through their pawpads, the footsteps, the bellows so loud they can be felt through the ground, it all stresses just how huge the thunderbeasts are, and they share a wide eyed look with app2.",
             "unscathed_rare": "The rumble app1 feels through the ground confuses them, until p_l tells them that it's footsteps. Footsteps. Awed, the apprentices creep forward to catch a glimpse of the bison, app1's pelt brushing up against app2's as both their fur stands on end and they huddle together.",
-            "stat_skill": "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoofsteps, s_c brings app1 and app2 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
+            "stat_skill": "As the herd moves slowly and invisibly around them in the grass, felt only by the thump-thud of their hoof steps, s_c brings app1 and app2 in close and tells them the story of how the great thunderbeasts protect the plains, channeling thunder in their horns and earthquakes in their hooves, so that neither may come to hurt c_n while they are near."
         },
         "fail_text": {
             "unscathed_common": "app1 refuses to believe that bison could possibly be so huge. They also refuse to get any closer to them, and start an argument with p_l about it. app2 sides with p_l and no one learns anything in the squabbling.",
@@ -766,7 +766,7 @@
             "dislike",
             "warrior"
         ],
-        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of criss-crossed, overlapping tunnels.",
+        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of crisscrossed, overlapping tunnels.",
         "decline_text": "When they get there, the tunnels look muddier than p_l expected, and the training is called off until the cats can be sure they're safe.",
         "chance_of_success": 60,
         "exp": 15,
@@ -800,7 +800,7 @@
             "dislike",
             "warrior"
         ],
-        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of criss-crossed, overlapping tunnels.",
+        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of crisscrossed, overlapping tunnels.",
         "decline_text": "When they get there, the tunnels look muddier than p_l expected, and the training is called off until the cats can be sure they're safe.",
         "chance_of_success": 60,
         "exp": 15,
@@ -835,7 +835,7 @@
             "two_apprentices",
             "warrior"
         ],
-        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of criss-crossed, overlapping tunnels.",
+        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic, but with plenty of crisscrossed, overlapping tunnels.",
         "decline_text": "When they get there, the tunnels look muddier than p_l expected, and the training is called off until the cats can be sure they're safe.",
         "chance_of_success": 60,
         "exp": 20,
@@ -870,7 +870,7 @@
             "two_apprentices",
             "warrior"
         ],
-        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic but with plenty of criss-crossed overlapping tunnels.",
+        "intro_text": "On this dry morning, the patrol heads out to practice tunnel navigation. There's an old, long abandoned badger sett that's perfect for apprentices, big enough to not be claustrophobic but with plenty of crisscrossed overlapping tunnels.",
         "decline_text": "When they get there, the tunnels look muddier than p_l expected, and the training is called off until the cats can be sure they're safe.",
         "chance_of_success": 60,
         "exp": 15,
@@ -911,7 +911,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "app1 bursts out from cover, pouncing on app2 with claws sheathed and giggling. app2 rolls with the blow and kicks app1 off, bounding after them with promises of getting them back! On and on the chase goes, neither interested in winning it as they play under the light of the full moon.",
-            "unscathed_rare": "app2 emerges from the dark, trotting up to app1 and asking why they wanted to meet there. app1 looks away with a purr, making up some nonsense about fight training that makes no sense. Instead both apprentices hang out under the stars, awkward and thrilled.",
+            "unscathed_rare": "app2 emerges from the dark, trotting up to app1 and asking why they wanted to meet there. app1 looks away with a purr, making up some nonsense about fight training that makes no sense. Instead, both apprentices hang out under the stars, awkward and thrilled.",
             "stat_trait": "app2 emerges from the thick dark of the night, the stars reflected in their eyes. Seeing s_c, they trot up, asking why s_c wanted to meet there. Stuttering but determined, s_c explains that they wondered if, possibly, maybe, app2 would like to go on a... date? app2 looks away with a purr and murmurs a soft yes to the ground, suddenly unable to make eye contact."
         },
         "fail_text": {
@@ -950,7 +950,7 @@
         "chance_of_success": 60,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The cats go out together in the late of the day, as the shadows stretch long over the flat plains. r_c goes through their tricks, showing p_l how they shift their balance to make less noise slipping through the grass, as p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. They smirk, showing off a little.",
+            "unscathed_common": "The cats go out together, a little later of the day, as the shadows stretch long over the flat plains. r_c goes through their tricks, showing p_l how they shift their balance to make less noise slipping through the grass, as p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. They smirk, showing off a little.",
             "unscathed_rare": "It's a long but satisfying training session, with both cats having an in depth chance to test themselves and work on their skills. It ends with them both sitting on a little outlook, watching the sun go down and catching the last of its rays on their pelts. r_c sees p_l watching them instead of the sun, and smiles.",
             "stat_skill": "s_c is a fantastic hunter, and p_l isn't shy about telling them so. They blush, but work through it, showing p_l how to listen to the shift of the grass and spot soft rustles that don't match with the wind rippling, tracking invisible prey at a long distance.",
             "stat_trait": "p_l marvels at the opportunity to have s_c's time to themselves. s_c is such a popular cat, so friendly and fun to be around, and yet when the training session draws to a close under the setting sun, s_c looks surprised to be told so."

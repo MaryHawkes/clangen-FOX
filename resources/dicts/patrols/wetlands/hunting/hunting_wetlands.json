@@ -33,7 +33,7 @@
             "hunting",
             "medium_prey"
         ],
-        "intro_text": "The patrol approaches a Twoleg nest perched on the edge of a swamp, with smoke rising from it's corner.",
+        "intro_text": "The patrol approaches a Twoleg nest perched on the edge of a swamp, with smoke rising from its corner.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 40,
         "exp": 20,
@@ -46,7 +46,7 @@
         },
         "min_cats": 1,
         "max_cats": 3,
-        "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with it's blood on their claws.",
+        "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with its blood on their claws.",
         "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
     },
     {
@@ -56,7 +56,7 @@
         "tags": [
             "hunting"
         ],
-        "intro_text": "The patrol approaches a Twoleg nest perched on the edge of a swamp, with smoke rising from it's corner.",
+        "intro_text": "The patrol approaches a Twoleg nest perched on the edge of a swamp, with smoke rising from its corner.",
         "decline_text": "The patrol decides to hunt elsewhere.",
         "chance_of_success": 10,
         "exp": 20,
@@ -381,7 +381,7 @@
         },
         "fail_text": {
             "unscathed_stat": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster.",
-            "death": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them."
+            "death": "The patrol mostly ignores the Twolegs. As they hunt, they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them."
         },
         "win_skills": [
             "CLEVER,3"
@@ -432,7 +432,7 @@
         },
         "fail_text": {
             "unscathed_stat": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster.",
-            "death": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them."
+            "death": "The patrol mostly ignores the Twolegs. As they hunt, they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them."
         },
         "win_skills": [
             "CLEVER,3"
@@ -581,7 +581,7 @@
         "success_text": {
             "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
             "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
-            "stat_skill": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
+            "stat_skill": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c takes the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
             "stat_trait": "Calmly, s_c weaves around the Twoleg dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt."
         },
         "fail_text": {
@@ -632,7 +632,7 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall, it works out.",
             "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app1. They've always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
             "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. A successful, sneaky hunt."
         },
@@ -737,7 +737,7 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall, it works out.",
             "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
             "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. app2 tries to be even sneakier, and so app1 ups their game, until they're both probably the most obvious pair of cats in the neighborhood."
         },
@@ -778,19 +778,19 @@
             "hunting",
             "gone"
         ],
-        "intro_text": "The smell of food lures r_c into what looks like a tunnel under some swampgrass.",
+        "intro_text": "The smell of food lures r_c into what looks like a tunnel under some swamp grass.",
         "decline_text": "Turning their nose up at the temptation, they continue on their way.",
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
             "unscathed_common": "Darting through quickly, they see that the lovely smell is Twoleg mush, and keep running.",
             "unscathed_rare": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
-            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the swampgrass away from a Twoleg trap underneath.",
-            "stat_trait": "Something isn't right. Nervously pawing at the swampgrass, s_c thinks that the smell is too good to be true. They leave it, deciding to return to camp and report it to the deputy instead."
+            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and strip the cover of the swamp grass away from a Twoleg trap underneath.",
+            "stat_trait": "Something isn't right. Nervously pawing at the swamp grass, s_c thinks that the smell is too good to be true. They leave it, deciding to return to camp and report it to the deputy instead."
         },
         "fail_text": {
             "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy for it they never expected to feel for a fox, as well as the heart stopping realization that it could easily have been them.",
-            "death": "r_c is caught in a trap hidden in the swampgrass and is taken by Twolegs shortly after."
+            "death": "r_c is caught in a trap hidden in the swamp grass and is taken by Twolegs shortly after."
         },
         "win_skills": [
             "CLEVER,1"
@@ -823,19 +823,19 @@
             "hunting",
             "gone"
         ],
-        "intro_text": "The smell of food lures r_c into what looks like a tunnel under some swampgrass.",
+        "intro_text": "The smell of food lures r_c into what looks like a tunnel under some swamp grass.",
         "decline_text": "Turning their nose up at the temptation, the patrol continues on their way.",
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
             "unscathed_common": "Darting through quickly, r_c sees that the lovely smell is Twoleg mush, and keeps running.",
             "unscathed_rare": "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around them, only for their fur to stand on end as they realize they're standing in a metal tunnel, cloaked in rust and camouflage. It's to their great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. They leave quickly.",
-            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the swampgrass away from a Twoleg trap underneath.",
-            "stat_trait": "Something isn't right. Nervously pawing at the swampgrass, s_c thinks that the smell is too good to be true. They leave it, convincing the patrol to return to camp and report it to the deputy instead."
+            "stat_skill": "Something about this situation sets all of s_c's instincts off. They investigate, carefully, and the patrol helps them strip the cover of the swamp grass away from a Twoleg trap underneath.",
+            "stat_trait": "Something isn't right. Nervously pawing at the swamp grass, s_c thinks that the smell is too good to be true. They leave it, convincing the patrol to return to camp and report it to the deputy instead."
         },
         "fail_text": {
             "unscathed_stat": "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy for it they never expected to feel for a fox, as well as the heart stopping realization that it could easily have been them.",
-            "death": "r_c is caught in a trap hidden in the swampgrass! There's nothing the patrol is able to do to help them, and r_c is taken by Twolegs shortly after."
+            "death": "r_c is caught in a trap hidden in the swamp grass! There's nothing the patrol is able to do to help them, and r_c is taken by Twolegs shortly after."
         },
         "win_skills": [
             "CLEVER,1"
@@ -1251,7 +1251,7 @@
         "success_text": {
             "unscathed_common": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. The cats retreat into a grove of trees and cuddle together, sharing what little warmth they have. Each cat takes a turn on the most exposed side of the huddle, selflessly risking themselves.",
             "stat_skill": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. s_c keeps everyone's spirits up as the patrol hides in an abandoned Twolegs water-monster where the wind can't get them, until everyone is talking, shaky and unhappy, but keeping each other's spirits up.",
-            "stat_trait": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. As the cats hide from the wind, s_c keeps an eye out for everyone. It's a long couple of hours, but with gentle understanding and compassion the cats make it though safely, closer than ever afterwards."
+            "stat_trait": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. As the cats hide from the wind, s_c keeps an eye out for everyone. It's a long couple of hours, but with gentle understanding and compassion the cats make it through safely, closer than ever afterwards."
         },
         "fail_text": {
             "injury": "A storm descends, sudden and violent, putting an end to any other thoughts but survival. When the snowstorm leaves, finally, and the cats trudge back home, but r_c hasn't escaped unscathed, their body chilled and refusing to warm up properly."
@@ -1297,12 +1297,12 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller, but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -1362,7 +1362,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -1421,7 +1421,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the eel."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "death": "Fiercely, r_c throws themselves at the fox, determined to win the eel prize. But the fox values it just as dearly, and manages to get a good grip on r_c, shaking them to pieces and killing them.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The fox doesn't follow, happy enough to eat the eel instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the fox settles back down to its meal."
@@ -1474,12 +1474,12 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller, but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -1535,7 +1535,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -1590,7 +1590,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the stork."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "death": "Fiercely, r_c throws themselves at the fox, determined to win the stork prize. But the fox values it just as dearly, and manages to get a good grip on r_c, shaking them to pieces and killing them.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The fox doesn't follow, happy enough to eat the stork instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the fox settles back down to its meal."
@@ -1651,7 +1651,7 @@
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -1705,7 +1705,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
         },
         "win_skills": [
@@ -1752,13 +1752,13 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "While a gray fox is bigger and far stockier than r_c, the delicious stench of whatever it is makes their eyes go wide and silly, and they leap to claim some of it for themselves and c_n. It's only a little lump, but the fox is apparently not too keen to face a fight over it, and gives up with a prefunctory snarl.",
+            "unscathed_common": "While a gray fox is bigger and far stockier than r_c, the delicious stench of whatever it is makes their eyes go wide and silly, and they leap to claim some of it for themselves and c_n. It's only a little lump, but the fox is apparently not too keen to face a fight over it, and gives up with a perfunctory snarl.",
             "unscathed_rare": "A gray fox is bigger than them, yes... but only just, and that carcass smells divine. r_c creeps up on the fox, using the thick swamp brush for cover, and waits until the fox has its head buried in the carcass to attack. The ambush sends the competing predator fleeing, and leaves r_c to claim the heavenly stinky food.",
             "stat_skill": "s_c uses every trick in their talented fighting skillset to attack the fox with no one to watch their flank, until the perfect opportunity opens up and they pounce onto the fox's back, digging in their claws. It's enough to convince the gray to back off, and s_c claims a seat at the carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, muck casing their pelt, until the fox finally throws them off and the battered s_c goes back to proudly claim the carcass."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the gray fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the gray fox, which keeps possession of the food. However, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's tripping over their own feet that saves them. They give up, and settle down to wait a safe distance away until the fox leaves of its own accord.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The gray fox doesn't follow, happy enough to eat the carcass instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the gray fox settles back down to its meal."
@@ -2339,7 +2339,7 @@
             "stat_trait": "The patrol overcomes the gray vixen they find and drives her off thanks to a brilliant battle move by s_c. The cats swirl around s_c afterwards, congratulating them on their bravery and skill."
         },
         "fail_text": {
-            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises the cats. This round goes to the gray fox.",
+            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail,. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises the cats. This round goes to the gray fox.",
             "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees into the maze of the many wooded semi-submerged islands of the swamp.",
             "injury": "The patrol finds a stocky gray vixen wandering their wetland, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
             "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
@@ -2394,7 +2394,7 @@
             "stat_trait": "Bravely, s_c charges the gray fox, yowling threats. The vixen spooks and skitters up a tree, growling and barking in a squeaky tone, and s_c follows her up into the branches. As the rest of the patrol backs them up from the ground, s_c screams until the fox is cowering and afraid, then lets her flee."
         },
         "fail_text": {
-            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises the cats. This round goes to the gray fox.",
+            "unscathed_common": "The patrol comes across a gray vixen at the end of the scent trail,. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises the cats. This round goes to the gray fox.",
             "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees into the maze of the many wooded semi-submerged islands of the swamp.",
             "injury": "The patrol finds a stocky gray vixen wandering their wetland, and drives her out in a scene that mostly involves yowling and screaming and yapping at each other until she gives in. r_c gets a little battered, but everyone is mostly fine.",
             "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is all muscle, barging past s_c and knocking them ass over paws as she flees from the patrol."
@@ -2444,10 +2444,10 @@
         "success_text": {
             "unscathed_common": "The stocky gray vixen they track down smells of milk, and though she's near double r_c's weight and all of it muscle, they meet her eyes squarely, and leap to attack. c_n does not tolerate sharing their territory with foxes.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
-            "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
+            "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail,. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
             "unscathed_stat": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and in a moment that embarrasses them deeply the gray vixen slips past them and flees into the maze of the many wooded semi-submerged islands of the swamp.",
             "injury": "r_c nearly managed to pin the gray vixen they find on a wet, barely above water island, but snapping jaws leave r_c dripping blood into the mud. Today this round goes to the gray fox.",
             "stat_injury": "s_c is determined to win, but their confidence is misplaced. They're a good fighter, but not a great one, and the stocky gray vixen is cunning, sinking her teeth into s_c to distract them as she flees."
@@ -2607,7 +2607,7 @@
         "success_text": {
             "unscathed_common": "r_c finds a gray vixen smelling of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
@@ -2771,7 +2771,7 @@
             "unscathed_common": "Thinking they could kill a gray fox by themselves, r_c launches into battle! r_c makes it out alive, but so does the gray fox. Upon bringing reinforcements to finish her off, it's discovered she's wisely left the territory with her kits.",
             "unscathed_rare": "In an exhausting fight, r_c manages to bring down and kill the gray vixen they've tracked. Her near grown litter, fat on the bounty of leaf-fall, is a challenge for another day. c_n will have to deal with the young foxes now roaming motherless in the swamps, before they start to compete for prey in leaf-bare.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
@@ -2826,11 +2826,11 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. There aren't many of them, but the fox doesn't need to know that - with a massive explosion of yowls, the cats sound like a full battle patrol, and the fox leaps up frightened out of its skin as the cats pounce to take possession of the bird.",
-            "stat_skill": "They're a small patrol, but a skilled one, and when they track down the red fox at the end of the scent trail they have enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
+            "stat_skill": "They're a small patrol, but a skilled one, and when they track down the red fox at the end of the scent trail, they have enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
             "stat_trait": "Tracking the fox trail, s_c reminds the rest of the patrol that things don't always need to end in a fight, using the trail to uncover a food cache of dead fish buried under a log. They still don't know what kind of fox left the trail, and they don't need to - these fish will make great additions to the fresh-kill pile back home."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox. Which they can say sort of worked, but also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush, but they aren't careful enough, and with a snarl the fox takes a bite at r_c as it flees with its dinner.",
             "stat_injury": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, and the overconfident attack ends in disaster as the fox bites s_c, leaving the rest of the patrol to rescue their annoying Clanmate as the fox runs off with what could've been their dinner."
@@ -2893,12 +2893,12 @@
         "chance_of_success": 10,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. While they'd expected having more cats would make it easier, it also makes the patrol far more of a threat to the red fox, and the creature panicks when they reveal themselves. They win the bird, but r_c nearly gets injured, and it's only p_l shoving them both out of the way that saves both their pelts.",
-            "stat_skill": "With such a big patrol, and with s_c there, when they track down the red fox at the end of the scent trail they have more than enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
+            "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. While they'd expected having more cats would make it easier, it also makes the patrol far more of a threat to the red fox, and the creature panics when they reveal themselves. They win the bird, but r_c nearly gets injured, and it's only thanks to p_l shoving them both out of the way that they come out of the scuffle unscathed.",
+            "stat_skill": "With such a big patrol, and with s_c there, when they track down the red fox at the end of the scent trail, they have more than enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
             "stat_trait": "Tracking the fox trail, s_c reminds the rest of the patrol that things don't always need to end in a fight, using the trail to uncover a food cache of dead fish buried under a log. They still don't know what kind of fox left the trail, and they don't need to - these fish will make great additions to the fresh-kill pile back home."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox. Which they can say sort of worked, but also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush, but they aren't careful enough, and with a snarl the fox takes a bite at r_c as it flees with its dinner.",
             "stat_injury": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, and the overconfident attack ends in disaster as the fox bites s_c, leaving the rest of the patrol to rescue their annoying Clanmate as the fox runs off with what could've been their dinner."
@@ -2962,13 +2962,13 @@
         "success_text": {
             "unscathed_common": "Spotting the red fox they've tracked dipping into the shelter of a little scrub covered bit of dry land, r_c hangs back, sneaking around until they spot the fox burying a fish for later. They simply wait for it to finish and leave, then creep in to steal the fox's hard work, bringing the prize back to camp for the fresh-kill pile. Sometimes winning a battle doesn't require fighting.",
             "stat_skill": "It requires s_c to use some of their best tricks, but they sneak close to the red fox at the end of the scent trail, eyes on the fish the fox carries. The creature puts down its fresh-kill to start fishing again, and s_c takes the opportunity, grabbing the fish and running. It's a good prize, and they feel proud to present it to the elders when they pad into camp, tired but satisfied.",
-            "stat_trait": "It's a situation that calls for careful calm, not implusive action. s_c tracks down a red fox at the end of the scent trail, holding a young duck, and waits carefully. Eventually, as the fox starts to hunt at a different river, it drops its fresh-kill to try win more. s_c carefully snatches it while the fox is distracted, and trots back to camp having successfully outwitted the competing predator."
+            "stat_trait": "It's a situation that calls for careful calm, not impulsive action. s_c tracks down a red fox at the end of the scent trail, holding a young duck, and waits carefully. Eventually, as the fox starts to hunt at a different river, it drops its fresh-kill to try win more. s_c carefully snatches it while the fox is distracted, and trots back to camp having successfully outwitted the competing predator."
         },
         "fail_text": {
             "unscathed_common": "It embarrasses them, but r_c doesn't even manage to find the fox they track, let alone earn anything useful from the afternoon's attempts.",
-            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, throwes themselves to the attack. The fox hears them coming, and with insulting nonchalance trots off, unwilling to get into a fight.",
+            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, throws themselves to the attack. The fox hears them coming, and with insulting nonchalance trots off, unwilling to get into a fight.",
             "injury": "Finding a red fox holding a fish that would be much appreciated for c_n's fresh-kill pile, r_c goes to attack it. But the fox is just as keen to keep it as r_c is to win it, and they're injured in the resulting fight.",
-            "stat_injury": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, recklessly throwes themselves to the attack. But the fox is as desperate to keep its meal as s_c is to win it from them, and s_c has to retreat bleeding, as the fox trots off with its dinner."
+            "stat_injury": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, recklessly throws themselves to the attack. But the fox is as desperate to keep its meal as s_c is to win it from them, and s_c has to retreat bleeding, as the fox trots off with its dinner."
         },
         "win_skills": [
             "HUNTER,1",
@@ -3028,15 +3028,15 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Its a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
+            "unscathed_common": "It's a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
             "unscathed_rare": "The scent trail leads to where some kind of fox has cached half a fish in a poorly concealed hole. The cats take it as their due, and leave the fox to wander on.",
             "stat_skill": "The trail leads to a gray fox, and s_c makes sure it both hands over the prey it's poached from c_n land and flees for the border, tail between its legs and yelping. The smaller predator can't stand up to a patrol working together.",
             "stat_trait": "The cats slowly follow the trail, with s_c urging caution. There's no reason to rush into things. Sure enough, they find a gray fox. It's digging at a rotten log, unearthing insects. The patrol uses the presence of the other predator as a distraction to bring down a plump bird, one that was too busy watching the fox to guard from them, and the fox is left unscathed to keep bug hunting."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. It takes all afternoon to wait the fox out and then drive it more gently from c_n's hunting grounds, and no one is happy with s_c.",
-            "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming it's fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
+            "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming its fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
             "stat_injury": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. s_c tries to make up for the mistake by following the fox up into the branches, which goes even more poorly and leaves the patrol needing to help them back to the medicine den."
         },
         "win_skills": [
@@ -3097,13 +3097,13 @@
         "chance_of_success": 10,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Its a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
+            "unscathed_common": "It's a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
             "unscathed_rare": "The scent trail leads to where some kind of fox has cached a wood rat in a poorly concealed hole. The cats take it as their due, and leave the fox to wander on.",
             "stat_skill": "The trail leads to a gray fox, and s_c makes sure it both hands over the prey it's poached from c_n land and flees for the border, tail between its legs and yelping. The smaller predator can't stand up to a patrol working together.",
             "stat_trait": "The cats slowly follow the trail, with s_c urging caution. There's no reason to rush into things. Sure enough, they find a gray fox. It's digging at a rotten log, unearthing insects. The patrol uses the presence of the other predator as a distraction to bring down a plump bird, one that was too busy watching the fox to guard from them, and the fox is left unscathed to keep bug hunting."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. It takes all afternoon to wait the fox out and then drive it more gently from c_n's hunting grounds, and no one is happy with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming its fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
             "stat_injury": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. s_c tries to make up for the mistake by following the fox up into the branches, which goes even more poorly and leaves the patrol needing to help them back to the medicine den."
@@ -3161,14 +3161,14 @@
         "exp": 15,
         "success_text": {
             "unscathed_common": "Spotting the gray fox they've tracked dipping into the shelter of a little scrub covered bit of dry land, r_c hangs back, sneaking around until they spot the fox caching a bird kill in an old log a storm washed in moons ago. They simply wait for it to finish and leave, then creep in to steal the fox's hard work, bringing the prize back to camp for the fresh-kill pile. Sometimes winning a battle doesn't require fighting.",
-            "stat_skill": "s_c tracks down a gray fox, and carefully cosiders it as an opponent. Stocky, yes, but they finally decide they can take it, and burst from cover, using surprise to get in a couple vicious swipes to the fox's face while its jaws are still full of prey. Yelping, the gray fox retreats from the cat, unwilling to risk more split blood, and s_c picks up the rat it carried with a proud grin.",
-            "stat_trait": "It's a situation that calls for careful calm, not implusive action. s_c tracks down a gray fox at the end of the scent trail, holding a little plump mouse, and waits carefully. Eventually, the fox tries to cache its fresh-kill in a little hole. s_c picks it up once the fox leaves, strolling back to camp having successfully outwitted the competing predator."
+            "stat_skill": "s_c tracks down a gray fox, and carefully considers it as an opponent. Stocky, yes, but they finally decide they can take it, and burst from cover, using surprise to get in a couple vicious swipes to the fox's face while its jaws are still full of prey. Yelping, the gray fox retreats from the cat, unwilling to risk more split blood, and s_c picks up the rat it carried with a proud grin.",
+            "stat_trait": "It's a situation that calls for careful calm, not impulsive action. s_c tracks down a gray fox at the end of the scent trail, holding a little plump mouse, and waits carefully. Eventually, the fox tries to cache its fresh-kill in a little hole. s_c picks it up once the fox leaves, strolling back to camp having successfully outwitted the competing predator."
         },
         "fail_text": {
             "unscathed_common": "It embarrasses them, but r_c doesn't even manage to find the fox they track, let alone earn anything useful from the afternoon's attempts.",
-            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, throwes themselves to the attack. The fox hears them coming, and makes a hasty retreat before the fight can start, taking its dinner with it.",
+            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, throws themselves to the attack. The fox hears them coming, and makes a hasty retreat before the fight can start, taking its dinner with it.",
             "injury": "Finding a gray fox holding a mouse that would make a nice addition to c_n's fresh-kill pile, r_c goes to attack it. But the fox is just as keen to keep it as r_c is to win it, and they're injured in the resulting fight.",
-            "stat_injury": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, recklessly throwes themselves to the attack. But the fox is a little too desperate to keep itself from harm, and s_c has to retreat bleeding."
+            "stat_injury": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, recklessly throws themselves to the attack. But the fox is a little too desperate to keep itself from harm, and s_c has to retreat bleeding."
         },
         "win_skills": [
             "HUNTER,1",
@@ -3226,10 +3226,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -3285,7 +3285,7 @@
             "stat_trait": "With great care, aware that the kill's original owner must be somewhere about, s_c snatches the first large scrap they find and leaves the swift fox to risk the wrath of the bigger predators."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -3342,10 +3342,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -3401,7 +3401,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -3458,10 +3458,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -3512,12 +3512,12 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the look out for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the lookout for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -3574,10 +3574,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -3628,12 +3628,12 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the look out for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the lookout for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -3688,13 +3688,13 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamandar before they pop out of the bushes. Not only to they scare off a potential competitor, they also get the added reward of a little snack.",
-            "unscathed_rare": "It's a truely ridiculous power disparity, with even a single member of the patrol outweighing the little fox. The cats drive it out of c_n's swamps no trouble, but it's hardly worth the little fishy morsel they win for their efforts.",
-            "stat_skill": "A simple display of just how badly the kit fox is outmatched convinces it to run, and s_c carefully seeks out the little food cache the kit fox was workign on, taking the minnows for the camp's fresh-kill pile.",
-            "stat_trait": "It's frustrating that it only wins them a single minnow, but hte patrol drives out the kit fox, and s_c reminds them that's what matters - that now the fox won't keep poaching from c_n's hunting grounds in the future."
+            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamander before they pop out of the bushes. Not only do they scare off a potential competitor, but they also get the added reward of a little snack!",
+            "unscathed_rare": "It's a truly ridiculous power disparity, with even a single member of the patrol outweighing the little fox. The cats drive it out of c_n's swamps no trouble, but it's hardly worth the little fishy morsel they win for their efforts.",
+            "stat_skill": "A simple display of just how badly the kit fox is outmatched convinces it to run, and s_c carefully seeks out the little food cache the kit fox was working on, taking the minnows for the camp's fresh-kill pile.",
+            "stat_trait": "It's frustrating that it only wins them a single minnow, but the patrol drives out the kit fox, and s_c reminds them that's what matters - that now the fox won't keep poaching from c_n's hunting grounds in the future."
         },
         "fail_text": {
-            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cats. At least that's one less competitior in c_n's hunting grounds?"
+            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cats. At least that's one less competitor in c_n's hunting grounds?"
         },
         "win_skills": [
             "CLEVER,1"
@@ -3737,13 +3737,13 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamandar before they pop out of the bushes. Not only to they scare off a potential competitor, they also get the added reward of a little snack.",
+            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamander before they pop out of the bushes. Not only do they scare off a potential competitor, but they also get the added reward of a little snack!",
             "unscathed_rare": "r_c throws their weight around as the bigger predator, stealing the kit fox's lunch and driving it away from the river.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cat. At least that's one less competitior in c_n's hunting grounds?"
+            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cat. At least that's one less competitor in c_n's hunting grounds?"
         },
         "win_skills": [
             "FIGHTER,1"
@@ -3793,12 +3793,12 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "Your cats are smaller, but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of food and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -3854,7 +3854,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -3909,7 +3909,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the forest, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the stork."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "death": "Fiercely, r_c throws themselves at the fox, determined to win the stork prize. But the fox values it just as dearly, and manages to get a good grip on r_c, shaking them to pieces and killing them.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The fox doesn't follow, happy enough to eat the stork instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the fox settles back down to its meal."
@@ -3970,7 +3970,7 @@
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -4024,7 +4024,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
         },
         "win_skills": [
@@ -4071,13 +4071,13 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "While a gray fox is bigger and far stockier than r_c, the delicious stench of whatever it is makes their eyes go wide and silly, and they leap to claim some of it for themselves and c_n. It's only a little lump, but the fox is apparently not too keen to face a fight over it, and gives up with a prefunctory snarl.",
+            "unscathed_common": "While a gray fox is bigger and far stockier than r_c, the delicious stench of whatever it is makes their eyes go wide and silly, and they leap to claim some of it for themselves and c_n. It's only a little lump, but the fox is apparently not too keen to face a fight over it, and gives up with a perfunctory snarl.",
             "unscathed_rare": "A gray fox is bigger than them, yes... but only just, and that carcass smells divine. r_c creeps up on the fox, using the thick swamp brush for cover, and waits until the fox has its head buried in the carcass to attack. The ambush sends the competing predator fleeing, and leaves r_c to claim the heavenly stinky food.",
             "stat_skill": "s_c uses every trick in their talented fighting skillset to attack the fox with no one to watch their flank, until the perfect opportunity opens up and they pounce onto the fox's back, digging in their claws. It's enough to convince the gray to back off, and s_c claims a seat at the carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, muck casing their pelt, until the fox finally throws them off and the battered s_c goes back to proudly claim the carcass."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the gray fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the gray fox, which keeps possession of the food. However, there were no injuries.",
             "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect their enemy's teeth, and it's tripping over their own feet that saves them. They give up, and settle down to wait a safe distance away until the fox leaves of its own accord.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The gray fox doesn't follow, happy enough to eat the carcass instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the gray fox settles back down to its meal."
@@ -4763,7 +4763,7 @@
         "success_text": {
             "unscathed_common": "The stocky gray vixen they track down smells of milk, and though she's near double r_c's weight and all of it muscle, they meet her eyes squarely, and leap to attack. c_n does not tolerate sharing their territory with foxes.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
@@ -4925,7 +4925,7 @@
         "success_text": {
             "unscathed_common": "r_c finds a gray vixen smelling of milk and blood. Hopefully by driving her out of the territory, the litter she has been raising this greenleaf won't be a threat to the Clan.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her dependent cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
@@ -5089,7 +5089,7 @@
             "unscathed_common": "Thinking they could kill a gray fox by themselves, r_c launches into battle! r_c makes it out alive, but so does the gray fox. Upon bringing reinforcements to finish her off, it's discovered she's wisely left the territory with her kits.",
             "unscathed_rare": "In an exhausting fight, r_c manages to bring down and kill the gray vixen they've tracked. Her near grown litter, fat on the bounty of leaf-fall, is a challenge for another day. c_n will have to deal with the young foxes now roaming motherless in the swamps, before they start to compete for prey in leaf-bare.",
             "stat_skill": "s_c displays incredible skill, driving the mother vixen and her brood out of c_n's swamps all by themselves. Now neither the gray fox nor her cubs pose a threat to the Clan. They swell with pride, returning to camp knowing there's one less competitor poaching c_n's prey.",
-            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the stand off is resolved when s_c charges the gray fox and she chooses flight over fight."
+            "stat_trait": "They're nearly of equal height, with s_c's bold aggression making up for the weight that the gray vixen has on them, and the standoff is resolved when s_c charges the gray fox and she chooses flight over fight."
         },
         "fail_text": {
             "unscathed_common": "r_c comes across a gray vixen at the end of the scent trail. She spots them too, measures herself up against them, then flees, scrambling up a tree and into the swamp canopy in a move that completely surprises r_c. This round goes to the gray fox.",
@@ -5144,12 +5144,12 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. There aren't many of them, but the fox doesn't need to know that - with a massive explosion of yowls, the cats sound like a full battle patrol, and the fox leaps up frightened out of its skin as the cats pounce to take possession of the bird.",
-            "stat_skill": "They're a small patrol, but a skilled one, and when they track down the red fox at the end of the scent trail they have enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
+            "stat_skill": "They're a small patrol, but a skilled one, and when they track down the red fox at the end of the scent trail, they have enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
             "stat_trait": "Tracking the fox trail, s_c reminds the rest of the patrol that things don't always need to end in a fight, using the trail to uncover a food cache of dead fish buried under a log. They still don't know what kind of fox left the trail, and they don't need to - these fish will make great additions to the fresh-kill pile back home."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
-            "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox. Which they can say sort of worked, but also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, which, to be fair, kind of works, but it also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush, but they aren't careful enough, and with a snarl the fox takes a bite at r_c as it flees with its dinner.",
             "stat_injury": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, and the overconfident attack ends in disaster as the fox bites s_c, leaving the rest of the patrol to rescue their annoying Clanmate as the fox runs off with what could've been their dinner."
         },
@@ -5211,13 +5211,13 @@
         "chance_of_success": 10,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. While they'd expected having more cats would make it easier, it also makes the patrol far more of a threat to the red fox, and the creature panicks when they reveal themselves. They win the bird, but r_c nearly gets injured, and it's only p_l shoving them both out of the way that saves both their pelts.",
+            "unscathed_common": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush. While they'd expected having more cats would make it easier, it also makes the patrol far more of a threat to the red fox, and the creature panics when they reveal themselves. They win the bird, but r_c nearly gets injured, and it's only because p_l shoved them both out of the way that come out of the scuffle unscathed.",
             "stat_skill": "With such a big patrol, and with s_c there, when they track down the red fox at the end of the scent trail they have more than enough skill and muscle to drive it off from the fish it was gnawing on. The cats gather around it, congratulating each other.",
             "stat_trait": "Tracking the fox trail, s_c reminds the rest of the patrol that things don't always need to end in a fight, using the trail to uncover a food cache of dead fish buried under a log. They still don't know what kind of fox left the trail, and they don't need to - these fish will make great additions to the fresh-kill pile back home."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
-            "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox. Which they can say sort of worked, but also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_stat": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, which, to be fair, did kind of work, but it also causes the fox to run off with the food it carries. The other cats aren't particularly pleased with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a red fox sits plucking the feathers off a plump duck. With careful signals, the cats set up an ambush, but they aren't careful enough, and with a snarl the fox takes a bite at r_c as it flees with its dinner.",
             "stat_injury": "The patrol tracks down a red fox, and spots that it's holding fresh-kill. However, s_c bursts from cover without warning, trying to intimidate the fox, and the overconfident attack ends in disaster as the fox bites s_c, leaving the rest of the patrol to rescue their annoying Clanmate as the fox runs off with what could've been their dinner."
         },
@@ -5281,13 +5281,13 @@
         "success_text": {
             "unscathed_common": "Spotting the red fox they've tracked dipping into the shelter of a little scrub covered bit of dry land, r_c hangs back, sneaking around until they spot the fox burying a fish for later. They simply wait for it to finish and leave, then creep in to steal the fox's hard work, bringing the prize back to camp for the fresh-kill pile. Sometimes winning a battle doesn't require fighting.",
             "stat_skill": "It requires s_c to use some of their best tricks, but they sneak close to the red fox at the end of the scent trail, eyes on the fish the fox carries. The creature puts down its fresh-kill to start fishing again, and s_c takes the opportunity, grabbing the fish and running. It's a good prize, and they feel proud to present it to the elders when they pad into camp, tired but satisfied.",
-            "stat_trait": "It's a situation that calls for careful calm, not implusive action. s_c tracks down a red fox at the end of the scent trail, holding a young duck, and waits carefully. Eventually, as the fox starts to hunt at a different river, it drops its fresh-kill to try win more. s_c carefully snatches it while the fox is distracted, and trots back to camp having successfully outwitted the competing predator."
+            "stat_trait": "It's a situation that calls for careful calm, not impulsive action. s_c tracks down a red fox at the end of the scent trail, holding a young duck, and waits carefully. Eventually, as the fox starts to hunt at a different river, it drops its fresh-kill to try win more. s_c carefully snatches it while the fox is distracted, and trots back to camp having successfully outwitted the competing predator."
         },
         "fail_text": {
             "unscathed_common": "It embarrasses them, but r_c doesn't even manage to find the fox they track, let alone earn anything useful from the afternoon's attempts.",
-            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, throwes themselves to the attack. The fox hears them coming, and with insulting nonchalance trots off, unwilling to get into a fight.",
+            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, throws themselves to the attack. The fox hears them coming, and with insulting nonchalance trots off, unwilling to get into a fight.",
             "injury": "Finding a red fox holding a fish that would be much appreciated for c_n's fresh-kill pile, r_c goes to attack it. But the fox is just as keen to keep it as r_c is to win it, and they're injured in the resulting fight.",
-            "stat_injury": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, recklessly throwes themselves to the attack. But the fox is as desperate to keep its meal as s_c is to win it from them, and s_c has to retreat bleeding, as the fox trots off with its dinner."
+            "stat_injury": "s_c hones in on the scent, and as soon as they spot the red fox with a dead fish hanging from its jaws, recklessly throws themselves to the attack. But the fox is as desperate to keep its meal as s_c is to win it from them, and s_c has to retreat bleeding, as the fox trots off with its dinner."
         },
         "win_skills": [
             "HUNTER,1",
@@ -5347,15 +5347,15 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Its a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
+            "unscathed_common": "It's a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
             "unscathed_rare": "The scent trail leads to where some kind of fox has cached half a fish in a poorly concealed hole. The cats take it as their due, and leave the fox to wander on.",
             "stat_skill": "The trail leads to a gray fox, and s_c makes sure it both hands over the prey it's poached from c_n land and flees for the border, tail between its legs and yelping. The smaller predator can't stand up to a patrol working together.",
             "stat_trait": "The cats slowly follow the trail, with s_c urging caution. There's no reason to rush into things. Sure enough, they find a gray fox. It's digging at a rotten log, unearthing insects. The patrol uses the presence of the other predator as a distraction to bring down a plump bird, one that was too busy watching the fox to guard from them, and the fox is left unscathed to keep bug hunting."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. It takes all afternoon to wait the fox out and then drive it more gently from c_n's hunting grounds, and no one is happy with s_c.",
-            "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming it's fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
+            "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming its fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
             "stat_injury": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. s_c tries to make up for the mistake by following the fox up into the branches, which goes even more poorly and leaves the patrol needing to help them back to the medicine den."
         },
         "win_skills": [
@@ -5416,13 +5416,13 @@
         "chance_of_success": 10,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Its a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
+            "unscathed_common": "It's a gray fox, which as far as the cats are concerned, means free food. They leap after it, and after a short chase the fox drops the mouse it was holding. That's not enough to satisfy the c_n cats, who drive it out of their territory before collecting the mouse and continuing the afternoon's hunt.",
             "unscathed_rare": "The scent trail leads to where some kind of fox has cached a wood rat in a poorly concealed hole. The cats take it as their due, and leave the fox to wander on.",
             "stat_skill": "The trail leads to a gray fox, and s_c makes sure it both hands over the prey it's poached from c_n land and flees for the border, tail between its legs and yelping. The smaller predator can't stand up to a patrol working together.",
             "stat_trait": "The cats slowly follow the trail, with s_c urging caution. There's no reason to rush into things. Sure enough, they find a gray fox. It's digging at a rotten log, unearthing insects. The patrol uses the presence of the other predator as a distraction to bring down a plump bird, one that was too busy watching the fox to guard from them, and the fox is left unscathed to keep bug hunting."
         },
         "fail_text": {
-            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
+            "unscathed_common": "The fox's trail vanishes, almost as though the creature has figured out that they're tracking it. Grumbling and arguing, the patrol has to head back home disappointed.",
             "unscathed_stat": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. It takes all afternoon to wait the fox out and then drive it more gently from c_n's hunting grounds, and no one is happy with s_c.",
             "injury": "p_l leads the patrol to the end of the scent trail, where a gray fox sits grooming its fur in the sunshine. With careful signals, the cats set up an ambush, but the small gray panics beyond anything any cat expected, and as it flees, convinced its life is in danger, it bites at r_c.",
             "stat_injury": "The patrol tracks down a gray fox trespassing on c_n land, but s_c runs at it without thinking, and instead of intimidating the fox into fleeing for the border it makes the gray fox skitter up a tree and start yelping. s_c tries to make up for the mistake by following the fox up into the branches, which goes even more poorly and leaves the patrol needing to help them back to the medicine den."
@@ -5480,14 +5480,14 @@
         "exp": 15,
         "success_text": {
             "unscathed_common": "Spotting the gray fox they've tracked dipping into the shelter of a little scrub covered bit of dry land, r_c hangs back, sneaking around until they spot the fox caching a bird kill in an old log a storm washed in moons ago. They simply wait for it to finish and leave, then creep in to steal the fox's hard work, bringing the prize back to camp for the fresh-kill pile. Sometimes winning a battle doesn't require fighting.",
-            "stat_skill": "s_c tracks down a gray fox, and carefully cosiders it as an opponent. Stocky, yes, but they finally decide they can take it, and burst from cover, using surprise to get in a couple vicious swipes to the fox's face while its jaws are still full of prey. Yelping, the gray fox retreats from the cat, unwilling to risk more split blood, and s_c picks up the rat it carried with a proud grin.",
-            "stat_trait": "It's a situation that calls for careful calm, not implusive action. s_c tracks down a gray fox at the end of the scent trail, holding a little plump mouse, and waits carefully. Eventually, the fox tries to cache its fresh-kill in a little hole. s_c picks it up once the fox leaves, strolling back to camp having successfully outwitted the competing predator."
+            "stat_skill": "s_c tracks down a gray fox, and carefully considers it as an opponent. Stocky, yes, but they finally decide they can take it, and burst from cover, using surprise to get in a couple vicious swipes to the fox's face while its jaws are still full of prey. Yelping, the gray fox retreats from the cat, unwilling to risk more split blood, and s_c picks up the rat it carried with a proud grin.",
+            "stat_trait": "It's a situation that calls for careful calm, not impulsive action. s_c tracks down a gray fox at the end of the scent trail, holding a little plump mouse, and waits carefully. Eventually, the fox tries to cache its fresh-kill in a little hole. s_c picks it up once the fox leaves, strolling back to camp having successfully outwitted the competing predator."
         },
         "fail_text": {
             "unscathed_common": "It embarrasses them, but r_c doesn't even manage to find the fox they track, let alone earn anything useful from the afternoon's attempts.",
-            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, throwes themselves to the attack. The fox hears them coming, and makes a hasty retreat before the fight can start, taking its dinner with it.",
+            "unscathed_stat": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, throws themselves to the attack. The fox hears them coming, and makes a hasty retreat before the fight can start, taking its dinner with it.",
             "injury": "Finding a gray fox holding a mouse that would make a nice addition to c_n's fresh-kill pile, r_c goes to attack it. But the fox is just as keen to keep it as r_c is to win it, and they're injured in the resulting fight.",
-            "stat_injury": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, recklessly throwes themselves to the attack. But the fox is a little too desperate to keep itself from harm, and s_c has to retreat bleeding."
+            "stat_injury": "s_c hones in on the scent, and as soon as they spot the gray fox with a dead fish hanging from its jaws, recklessly throws themselves to the attack. But the fox is a little too desperate to keep itself from harm, and s_c has to retreat bleeding."
         },
         "win_skills": [
             "HUNTER,1",
@@ -5545,10 +5545,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -5604,7 +5604,7 @@
             "stat_trait": "With great care, aware that the kill's original owner must be somewhere about, s_c snatches the first large scrap they find and leaves the swift fox to risk the wrath of the bigger predators."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -5661,10 +5661,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -5720,7 +5720,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -5777,10 +5777,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -5831,12 +5831,12 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the look out for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the lookout for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -5893,10 +5893,10 @@
         "success_text": {
             "unscathed_common": "As the patrol approaches, the swift fox spots them and backs off from the carcass with a whine. Your cats bring it home, no fuss, no worries.",
             "stat_skill": "The patrol takes over the carcass without a fight, the small swift fox giving way without trouble. Still, it's hardly worth the effort, and s_c can think of better things they should be doing.",
-            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish the afternoon hasn't been a completely wasted hunting trip."
+            "stat_trait": "Responsibly, s_c keeps the patrol moving once they take the fish from the unfortunate-but-unable-to-complain swift fox. They don't find anything, but with the stolen fish from this afternoon, at least this wasn't a complete waste of a hunting trip! Right, guys? ...Guys?"
         },
         "fail_text": {
-            "unscathed_common": "The swift fox gives way easily to the bigger canivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
+            "unscathed_common": "The swift fox gives way easily to the bigger carnivores, but the fish carcass is rotten, too rotten for the Clan cats to want to touch.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c calls the rest of the patrol for backup and no one is injured, but by the time they get back to the kill a different predator has absconded with the fish."
         },
         "win_skills": [
@@ -5947,12 +5947,12 @@
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the look out for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
+            "unscathed_common": "r_c smaller, alone, and half its weight, but the fox has a prize {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} willing to fight for. With a prayer to StarClan, {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} {PRONOUN/r_c/self} into battle. The fox, already on the lookout for other predators and unwilling to lose blood over it, leaves the kill with a grumble.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c muscles in as the swft fox gives way to the bigger predator, but the carcass is rotten and worthless.",
+            "unscathed_common": "r_c muscles in as the swift fox gives way to the bigger predator, but the carcass is rotten and worthless.",
             "unscathed_stat": "The swift fox gives up the kill, but s_c pursues it anyway, until the fox turns and threatens with snapping teeth. s_c dances out of the way, but when they return, another predator has already snapped up the abandoned fish.",
             "death": "r_c starts arguing with the fox over the fish. Neither sees the alligator coming.",
             "injury": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving it, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away from the kill.",
@@ -6007,13 +6007,13 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamandar before they pop out of the bushes. Not only to they scare off a potential competitor, they also get the added reward of a little snack.",
-            "unscathed_rare": "It's a truely ridiculous power disparity, with even a single member of the patrol outweighing the little fox. The cats drive it out of c_n's swamps no trouble, but it's hardly worth the little fishy morsel they win for their efforts.",
-            "stat_skill": "A simple display of just how badly the kit fox is outmatched convinces it to run, and s_c carefully seeks out the little food cache the kit fox was workign on, taking the minnows for the camp's fresh-kill pile.",
-            "stat_trait": "It's frustrating that it only wins them a single minnow, but hte patrol drives out the kit fox, and s_c reminds them that's what matters - that now the fox won't keep poaching from c_n's hunting grounds in the future."
+            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamander before they pop out of the bushes. Not only do they scare off a potential competitor, but they also get the added reward of a little snack!",
+            "unscathed_rare": "It's a truly ridiculous power disparity, with even a single member of the patrol outweighing the little fox. The cats drive it out of c_n's swamps no trouble, but it's hardly worth the little fishy morsel they win for their efforts.",
+            "stat_skill": "A simple display of just how badly the kit fox is outmatched convinces it to run, and s_c carefully seeks out the little food cache the kit fox was working on, taking the minnows for the camp's fresh-kill pile.",
+            "stat_trait": "It's frustrating that it only wins them a single minnow, but the patrol drives out the kit fox, and s_c reminds them that's what matters - that now the fox won't keep poaching from c_n's hunting grounds in the future."
         },
         "fail_text": {
-            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cats. At least that's one less competitior in c_n's hunting grounds?"
+            "unscathed_common": "The cats freeze, and carefully creep back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cats. At least that's one less competitor in c_n's hunting grounds?"
         },
         "win_skills": [
             "CLEVER,1"
@@ -6056,13 +6056,13 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamandar before they pop out of the bushes. Not only to they scare off a potential competitor, they also get the added reward of a little snack.",
+            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... they wait until the tiny fox drops down onto a salamander before they pop out of the bushes. Not only do they scare off a potential competitor, but they also get the added reward of a little snack!",
             "unscathed_rare": "r_c throws their weight around as the bigger predator, stealing the kit fox's lunch and driving it away from the river.",
             "stat_skill": "s_c uses every trick in {PRONOUN/s_c/poss} talented fighting skillset to attack the fox with no one to watch {PRONOUN/s_c/poss} flank, until the perfect opportunity opens up and {PRONOUN/s_c/subject} pounce onto the fox's back, digging in {PRONOUN/s_c/poss} claws. It's a wild ride through the swamp until the fox bucks {PRONOUN/s_c/object} off, but it wins {PRONOUN/s_c/subject} the fish carcass.",
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the swamp, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fish."
         },
         "fail_text": {
-            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cat. At least that's one less competitior in c_n's hunting grounds?"
+            "unscathed_common": "r_c freezes, and carefully creeps back into cover. A kit fox is small enough to inevitably startle and run from them, but if they play this right... but not, the kit fox has spotted them, and flees from the cat. At least that's one less competitor in c_n's hunting grounds?"
         },
         "win_skills": [
             "FIGHTER,1"

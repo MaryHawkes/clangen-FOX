@@ -325,7 +325,7 @@
         "fail_text": {
             "unscathed_common": "It turns out they were app1's own pawprints... app1 huffs with embarrassment, suddenly grateful that {PRONOUN/app1/poss} patrol is so small. Less eyes watching that embarrassing moment. {PRONOUN/app1/subject/CAP} {VERB/app1/don't/doesn't} don't want to look dumb in front of other cats.",
             "unscathed_stat": "Boldly, s_c follows the scent to a trespassing rogue, and confronts them. Fur puffed but ears pricked forward curiously, {PRONOUN/s_c/subject} {VERB/s_c/ask/asks} what the rogue is doing in c_n territory. It seems to embarrass the other cat, who walks off huffily back over the border.",
-            "injury": "Nose to the ground following the trail, app1 doesn't see the blow coming. {PRONOUN/app1/subject/CAP} {VERB/app1/haul/hauls} {PRONOUN/app1/self} to {PRONOUN/app1/poss} feet feet, squealing with pain, and run for home."
+            "injury": "Nose to the ground following the trail, app1 doesn't see the blow coming. {PRONOUN/app1/subject/CAP} {VERB/app1/haul/hauls} {PRONOUN/app1/self} to {PRONOUN/app1/poss} feet, squealing with pain, and run for home."
         },
         "fail_trait": [
             "ambitious",

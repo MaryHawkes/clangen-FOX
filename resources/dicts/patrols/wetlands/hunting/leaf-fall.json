@@ -4,7 +4,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "two_apprentices", "big_change", "pos_dislike", "pos_jealous", "rel_patrol", "minor_injury"],
-        "intro_text": "The two siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finallly brought an end to the choakingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
+        "intro_text": "The two siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finally brought an end to the chokingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 20,
@@ -60,7 +60,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back w_tp_a_p.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back w_tp_a_p.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the sibling trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -80,7 +80,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "three_apprentices", "pos_dislike", "pos_jealous", "rel_patrol", "minor_injury"],
-        "intro_text": "The three siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finallly brought an end to the choakingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
+        "intro_text": "The three siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finally brought an end to the chokingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -136,7 +136,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -156,7 +156,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "four_apprentices", "big_change", "pos_dislike", "pos_jealous", "rel_patrol", "minor_injury"],
-        "intro_text": "The four siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finallly brought an end to the choakingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
+        "intro_text": "The four siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finally brought an end to the chokingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -212,7 +212,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -232,7 +232,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "five_apprentices", "big_change", "pos_dislike", "pos_jealous", "rel_patrol", "minor_injury"],
-        "intro_text": "The five siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finallly brought an end to the choakingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
+        "intro_text": "The five siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finally brought an end to the chokingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -288,7 +288,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -308,7 +308,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "small_prey0", "medium_prey2", "apprentice", "six_apprentices", "big_change", "pos_dislike", "pos_jealous", "rel_patrol", "minor_injury"],
-        "intro_text": "The six siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finallly brought an end to the choakingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
+        "intro_text": "The six siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Leaf-fall has finally brought an end to the chokingly intense humidity of greenleaf, and they're keen to take advantage of the better weather.",
         "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
         "chance_of_success": 40,
         "exp": 30,
@@ -364,7 +364,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_a_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_a_p than the w_mp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -389,8 +389,8 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in a astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in an astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -464,8 +464,8 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in a astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two w_mp_l_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in an astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two w_mp_l_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -515,8 +515,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A w_mp_a_s and two w_mp_a_p is nothing to sniff at, as a hunting success, but stars above being alone with r_c makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them two healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them two healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -572,7 +572,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "Sometimes, the prey just doesn't run, and today is one of those times.",
-            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock settin up a good pounce {PRONOUN/r_c/subject} slip - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
+            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock setting up a good pounce {PRONOUN/r_c/subject} slip - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
             },
         "win_skills": ["SWIMMER,1"],
         "min_cats": 2,
@@ -613,7 +613,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "medium_prey", "no_app", "pos_dislike", "patrol_to_r_c", "big_change", "no_change_fail", "injury", "diarrhea"],
-        "intro_text": "The siblings head out to one of the further hunting grounds, down where a collection of fruit trees drop their harvest into a stagnent pool that rarely washes the stinking bait away.",
+        "intro_text": "The siblings head out to one of the further hunting grounds, down where a collection of fruit trees drop their harvest into a stagnant pool that rarely washes the stinking bait away.",
         "decline_text": "They decide to bask for a bit instead of making the long walk.",
         "chance_of_success": 50,
         "exp": 20,
@@ -644,8 +644,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A w_mp_a_s and a couple w_mp_a_p are nothing to sniff at, as a hunting success, but stars above being alone with {PRONOUN/p_l/poss} siblings makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them four healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them four healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -701,7 +701,7 @@
             },
         "fail_text": {
 	        "unscathed_common": "Sometimes, the prey just doesn't run, and today is one of those times.",
-            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock settin up a good pounce {PRONOUN/r_c/subject} slip - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
+            "injury": "r_c sees a fish {PRONOUN/r_c/subject}'d like for the fresh-kill pile, but while perched on a rock setting up a good pounce {PRONOUN/r_c/subject} slip - {PRONOUN/r_c/subject} {VERB/r_c/bob/bobs} to the surface and splutter {PRONOUN/r_c/poss} way to shore, but {PRONOUN/r_c/poss} breath comes short and wheezing after the dunking. Fleas and ticks!"
             },
         "win_skills": ["SWIMMER,1"],
         "min_cats": 3,
@@ -742,7 +742,7 @@
         "biome": "wetlands",
         "season": "leaf-fall",
         "tags": ["hunting", "medium_prey", "no_app", "pos_dislike", "patrol_to_r_c", "big_change", "no_change_fail", "injury", "diarrhea"],
-        "intro_text": "The siblings head out to one of the further hunting grounds, down where a collection of fruit trees drop their harvest into a stagnent pool that rarely washes the stinking bait away.",
+        "intro_text": "The siblings head out to one of the further hunting grounds, down where a collection of fruit trees drop their harvest into a stagnant pool that rarely washes the stinking bait away.",
         "decline_text": "They decide to bask for a bit instead of making the long walk.",
         "chance_of_success": 50,
         "exp": 20,

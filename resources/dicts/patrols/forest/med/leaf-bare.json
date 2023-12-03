@@ -21,7 +21,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "Surprisingly, r_c actually starts up a conversation with them about the herbs they're looking for. p_l launches into the usual spiel, but even more astonishingly, r_c is actually interested, and it makes their heart feel lighter getting to share their knowledge and skills with someone who respects them.",
-            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just a herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
+            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just an herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
             "unscathed_common": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common, and the other cat bluntly refuses to talk about boring herbs.",
@@ -61,7 +61,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "The ground is slippery with frost, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
-            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just a herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
+            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just an herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
             "unscathed_common": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
@@ -353,8 +353,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any daisies under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any daisies under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't find any daisies under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin, they also don't find any daisies under the snow, and they're left shivering violently by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -399,8 +399,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any daisies under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any daisies under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't find any daisies under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin, they also don't find any daisies under the snow, and they're left shivering violently by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -441,8 +441,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any daisies under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any daisies under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't even find any daisies under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin, they also don't find any daisies under the snow, and they're left shivering violently by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -478,8 +478,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any dandelions under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't find any dandelions under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin, they also don't find any dandelions under the snow, and they're left shivering violently by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -524,8 +524,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any dandelions under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't find any dandelions under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin, but they also don't find any dandelions under the snow, and they're left shivering violently by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -566,8 +566,8 @@
             "stat_skill": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
         },
         "fail_text": {
-            "unscathed_common": "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
-            "injury": "Not only does r_c end up soaked to the skin, they can't even find any dandelions under the snow, and they're left shivering violently by the time they return to camp."
+            "unscathed_common": "Not only does p_l end up soaked to the skin, but they also don't find any dandelions under the snow. A wasted and horribly chilly day.",
+            "injury": "Not only does r_c end up soaked to the skin after trying - and failing - to find any dandelions under the snow, but by the time they return to camp, they're shivering violently from the cold! What a horrible day!"
         },
         "win_skills": [
             "SENSE,2"
@@ -730,7 +730,7 @@
         "exp": 30,
         "success_text": {
             "unscathed_common": "p_l returns to camp with stone-cold paws and a new hatred for digging, but carrying bulbs of garlic.",
-            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky speciality is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores.",
+            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky specialty is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores.",
             "stat_skill": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. They prove themself right, and it's only an utter and complete pain to dig out the bulbs. Well, at least they've got them now."
         },
         "fail_text": {
@@ -778,7 +778,7 @@
         "exp": 40,
         "success_text": {
             "unscathed_common": "p_l and app1 return to camp with stone-cold paws and a new hatred for digging, but carrying bulbs of garlic.",
-            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky speciality is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores with app1.",
+            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky specialty is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores with app1.",
             "stat_skill": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. They prove themself right, and it's only an utter and complete pain to dig out the bulbs. Well, at least they've got them now."
         },
         "fail_text": {
@@ -822,7 +822,7 @@
         "exp": 30,
         "success_text": {
             "unscathed_common": "p_l and the patrol return to camp with stone-cold paws and a new hatred for digging, but carrying bulbs of garlic.",
-            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky speciality is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores with the patrol.",
+            "unscathed_rare": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky specialty is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of their bulbs for the herb stores with the patrol.",
             "stat_skill": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. They prove themself right, and it's only an utter and complete pain to dig out the bulbs. Well, at least they've got them now."
         },
         "fail_text": {

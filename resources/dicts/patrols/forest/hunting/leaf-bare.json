@@ -326,7 +326,7 @@
         },
         "fail_text": {
             "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only when {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} yanked back by the tail that {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} saved from any injuries. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
         "win_skills": [
@@ -381,7 +381,7 @@
         },
         "fail_text": {
             "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only when {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} yanked back by the tail that {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} saved from any injuries. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
         },
         "win_skills": [
             "FIGHTER,1"
@@ -1587,7 +1587,7 @@
         },
         "fail_text": {
             "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only when {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} yanked back by the tail that {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} saved from any injuries. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
         "win_skills": [
@@ -1644,7 +1644,7 @@
         },
         "fail_text": {
             "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
-            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only being yanked back by the tail that saves {PRONOUN/s_c/object} from injury. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
+            "unscathed_stat": "s_c makes a stupid mistake, too intent on winning the fight to respect {PRONOUN/s_c/poss} enemy's teeth, and it's only when {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} yanked back by the tail that {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} saved from any injuries. The patrol gives up, and settles down to wait a safe distance away until the fox leaves of its own accord."
         },
         "win_skills": [
             "FIGHTER,1"

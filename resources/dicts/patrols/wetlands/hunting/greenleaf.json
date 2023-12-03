@@ -60,7 +60,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back w_tp_l_p.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back w_tp_l_p.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the sibling trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -136,7 +136,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -212,7 +212,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -288,7 +288,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -364,7 +364,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's w_tp_l_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two w_tp_l_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back w_tp_l_p than the w_tp_a_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c spends half the patrol flashing in and out of the water, zipping from one riverbank to another, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -389,8 +389,8 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in a astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two w_tp_l_p, and watches p_l take down a w_mp_a_s in an astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -464,8 +464,8 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 collects two w_tp_l_p, watches p_l take down a w_mp_a_s in a astonishing pounce, and the rest of {PRONOUN/app1/poss} older siblings bring down two w_tp_a_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two w_tp_l_p, watches p_l take down a w_mp_a_s in an astonishing pounce, and the rest of {PRONOUN/app1/poss} older siblings bring down two w_tp_a_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's w_tp_l_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -515,8 +515,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A w_mp_a_s and two w_tp_a_p is nothing to sniff at, as a hunting success, but stars above being alone with r_c makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them two healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to to even try for a swipe, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them two healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to even try for a swipe, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -535,7 +535,7 @@
         "biome": "wetlands",
         "season": "greenleaf",
         "tags": ["hunting", "medium_prey", "no_app", "platonic", "dislike", "comfort", "rel_patrol", "no_change_fail"],
-        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN/r_c/poss} sibling. Especially with the waters pleasently cool on their overheated pelts, perfect for a great hunt together!",
+        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN/r_c/poss} sibling. Especially with the waters pleasantly cool on their overheated pelts, perfect for a great hunt together!",
         "decline_text": "But sometimes, you get called back to camp instead. Ah well, another time!",
         "chance_of_success": 50,
         "exp": 20,
@@ -567,7 +567,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "Watching r_c execute a fantastic leap to bring down a w_mp_l_s, p_l smiles. Does r_c remember the time {PRONOUN/r_c/subject} tried to do that as a kitten, and stood on {PRONOUN/r_c/poss} own tail? The siblings laugh about it as they move on to the next hunting ground.",
-            "unscathed_rare": "It's been a while since they've been on a patrol alone together, and after they catch a couple b_mp_l_p for the fresh-kill pile r_c spends a bit just chasing p_l around the riversedge, batting at each other in a moment of silliness.",
+            "unscathed_rare": "It's been a while since they've been on a patrol alone together, and after they catch a couple b_mp_l_p for the fresh-kill pile r_c spends a bit just chasing p_l around the river's edge, batting at each other in a moment of silliness.",
 	        "stat_skill": "r_c jokes that {PRONOUN/r_c/subject} can't possibly be related to s_c - clearly s_c was born from eels, not cats, with the way {PRONOUN/s_c/subject} {VERB/s_c/glide/glides} through the water."
             },
         "fail_text": {
@@ -618,7 +618,7 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Together, they collect a w_tp_a_s, a couple w_tp_a_p, and a old w_mp_a_s. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN/r_c/poss} sibling has little time or patience for it.",
+            "unscathed_common": "Together, they collect a w_tp_a_s, a couple w_tp_a_p, and an old w_mp_a_s. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN/r_c/poss} sibling has little time or patience for it.",
             "unscathed_rare": "r_c makes a dumb comment that accidentally cuts deep. {PRONOUN/r_c/poss/CAP} sibling works with {PRONOUN/r_c/object} long enough to bring back a decent haul of prey - but no longer."
             },
         "fail_text": {
@@ -644,8 +644,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A w_mp_a_s and a couple w_mp_a_p are nothing to sniff at, as a hunting success, but stars above being alone with {PRONOUN/p_l/poss} siblings makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them four healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to to even try for a swipe, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them four healthy w_mp_a_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to even try for a swipe, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -664,7 +664,7 @@
         "biome": "wetlands",
         "season": "greenleaf",
         "tags": ["hunting", "medium_prey", "no_app", "platonic", "dislike", "comfort", "rel_patrol", "no_change_fail"],
-        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN/r_c/poss} siblings. Especially with the waters pleasently cool on their overheated pelts, perfect for a great hunt together!",
+        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN/r_c/poss} siblings. Especially with the waters pleasantly cool on their overheated pelts, perfect for a great hunt together!",
         "decline_text": "But sometimes, you get called back to camp instead. Ah well, another time!",
         "chance_of_success": 50,
         "exp": 20,
@@ -696,7 +696,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "Watching r_c execute a fantastic leap to bring down a w_mp_l_s, p_l smiles. Does r_c remember the time {PRONOUN/r_c/subject} tried to do that as a kitten, and stood on {PRONOUN/r_c/poss} own tail? The siblings laugh about it together as they move on to the next hunting ground.",
-            "unscathed_rare": "It's been a while since they've been on a patrol alone together, and after they catch a couple w_mp_a_p and a w_mp_a_s for the fresh-kill pile r_c spends a bit just chasing their siblings around the riversedge, batting at each other in a moment of silliness.",
+            "unscathed_rare": "It's been a while since they've been on a patrol alone together, and after they catch a couple w_mp_a_p and a w_mp_a_s for the fresh-kill pile r_c spends a bit just chasing their siblings around the river's edge, batting at each other in a moment of silliness.",
 	        "stat_skill": "r_c jokes that {PRONOUN/r_c/subject} can't possibly be related to s_c - clearly s_c was born from eels, not cats, with the way {PRONOUN/s_c/subject} {VERB/s_c/glide/glides} through the water."
             },
         "fail_text": {
@@ -747,7 +747,7 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Together, they collect a w_tp_a_s, a couple w_tp_a_p, a old w_mp_a_s and two w_tp_l_p. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN/r_c/poss} siblings have little time or patience for it.",
+            "unscathed_common": "Together, they collect a w_tp_a_s, a couple w_tp_a_p, an old w_mp_a_s and two w_tp_l_p. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN/r_c/poss} siblings have little time or patience for it.",
             "unscathed_rare": "r_c makes a dumb comment that accidentally cuts deep. {PRONOUN/r_c/poss/CAP} siblings work with {PRONOUN/r_c/object} long enough to bring back a decent haul of prey - but no longer."
             },
         "fail_text": {

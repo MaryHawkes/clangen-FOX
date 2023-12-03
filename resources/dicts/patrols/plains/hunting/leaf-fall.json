@@ -19,12 +19,12 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Your cats are smaller but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
+            "unscathed_common": "You cats are smaller, but they outnumber the fox, if only by a little, and it's a prize they're willing to fight for. With a prayer to StarClan they throw themselves into battle, and the fox, already half full of venison and unwilling to lose blood over it, is driven off from the kill.",
             "stat_skill": "s_c shows their strength, leading the fight against the fox. By working together and keeping it distracted, the cats harry and harass the fox until it gives up and runs.",
             "stat_trait": "The patrol launches into battle, but with so few cats it's exhausting trying to keep the fox and its snapping jaws on the defensive. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. It's only one bite, but the fox has had enough and flees."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -80,7 +80,7 @@
             "stat_trait": "The patrol launches into battle, keeping the fox on the defensive with teamwork. In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. Holding on grimly, s_c's daring move gives the rest of the patrol the opportunity needed to bring the fox down for good."
         },
         "fail_text": {
-            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However with so many cats to protect each other, there were no injuries.",
+            "unscathed_common": "Your patrol fails to drive away the fox, which keeps possession of the food. However, with so many cats to protect each other, there were no injuries.",
             "injury": "The patrol launches into battle, but r_c is caught with a nasty bite, and the cats give up on challenging for the food in favor of quickly helping r_c back to the medicine cat den.",
             "stat_injury": "s_c means well, but {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} overconfident in {PRONOUN/s_c/poss} attack and the fox manages to sink their teeth into {PRONOUN/s_c/object}. The patrol is forced to retreat, forming a defensive ring around the hurt s_c."
         },
@@ -135,7 +135,7 @@
             "stat_trait": "In an act of daring bravery, s_c darts low to the ground, gets under the jaws, and sinks {PRONOUN/s_c/poss} teeth into the fox's throat. But then {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} stuck, unwilling to let go and risk being bitten. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} dragged through the plains, over rocks and through bushes, until the fox finally collapses and the battered s_c goes back to proudly claim the fawn."
         },
         "fail_text": {
-            "unscathed_common": "r_c fails to drive away the fox, which keeps possession of the food. However there were no injuries.",
+            "unscathed_common": "r_c fails to drive away the fox, which keeps possession of the food. However, there were no injuries.",
             "death": "Fiercely, r_c throws {PRONOUN/r_c/self} at the fox, determined to win the fawn prize. But the fox values it just as dearly, and manages to get a good grip on r_c, shaking {PRONOUN/r_c/object} to pieces and killing {PRONOUN/r_c/object}.",
             "injury": "r_c launches into battle, but is caught with a nasty bite, and retreats to limp back home. The fox doesn't follow, happy enough to eat the fawn instead of the foolish cat.",
             "stat_injury": "s_c is overconfident in {PRONOUN/s_c/poss} attack, and the fox manages to sink their teeth into {PRONOUN/s_c/object}. {PRONOUN/s_c/subject/CAP} {VERB/s_c/retreat/retreats}, bleeding and in pain, and the fox settles back down to its meal."
@@ -363,12 +363,12 @@
         "exp": 30,
         "success_text": {
             "unscathed_common": "The patrol charges the swift vixen, and she runs, leaving the scent of milk in the air behind her. But they don't know where her cubs might've been hidden, and they'll be old enough to survive without her - this bodes ill for leaf-bare.",
-            "unscathed_rare": "The patrol sneaks closer, until p_l realises that the swift vixen is approaching her den. Her cubs, nearly full grown on prey stolen from c_n's territory, poke their heads out, and the cats yowl in outrage. They charge the den, killing two of the cubs before the vixen runs with her third.",
+            "unscathed_rare": "The patrol sneaks closer, until p_l realizes that the swift vixen is approaching her den. Her cubs, nearly full grown on prey stolen from c_n's territory, poke their heads out, and the cats yowl in outrage. They charge the den, killing two of the cubs before the vixen runs with her third.",
             "stat_skill": "s_c holds the patrol back until they spot the swift vixen's mate, approaching with poached prey in his jaws. Together, the cats ambush the foxes, bursting from cover with claws unsheathed as a vicious fight starts. But warriors fight as a team, and the foxes do not, and one flees, abandoning its mate and cubs to the fury of c_n."
         },
         "fail_text": {
-            "unscathed_common": "The swift fox spots the patrol coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small canivore gets its name.",
-            "injury": "As the patrol descends on the swift vixen, her scream of surprise brings in her mate, changing the odds. The male bursts out from cover and sinks his teeth into r_c, and use the patrol switching to r_c's defence as their signal to flee."
+            "unscathed_common": "The swift fox spots the patrol coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small carnivore gets its name.",
+            "injury": "As the patrol descends on the swift vixen, her scream of surprise brings in her mate, changing the odds. The male bursts out from cover and sinks his teeth into r_c, and use the patrol switching to r_c's defense as their signal to flee."
         },
         "win_skills": [
             "CLEVER,1",
@@ -402,8 +402,8 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "Sneaking closer, r_c realises that the wind carries the scent of milk from the vixen. It's a swift fox - and she has cubs. Eventually she leaves the area, and r_c begins the hunt, checking every burrow, every crevice, every hole until they stumble over the den. Two of the cubs flee into the grasslands, while the third falls to r_c's claws.",
-            "unscathed_rare": "This swift vixen has a den, r_c realises, one perched just under a lone tree. Once the vixen leaves, r_c digs around it to bury the den and its contents. No swift cubs will be raised within c_n's borders.",
+            "unscathed_common": "Sneaking closer, r_c realizes that the wind carries the scent of milk from the vixen. It's a swift fox - and she has cubs. Eventually she leaves the area, and r_c begins the hunt, checking every burrow, every crevice, every hole until they stumble over the den. Two of the cubs flee into the grasslands, while the third falls to r_c's claws.",
+            "unscathed_rare": "This swift vixen has a den, r_c realizes, one perched just under a lone tree. Once the vixen leaves, r_c digs around it to bury the den and its contents. No swift cubs will be raised within c_n's borders.",
             "stat_skill": "s_c scents the air, following the milk scent of the mother swift fox from afar. It means they can position themselves for the perfect ambush, leaping from cover to fasten their teeth in her throat. Her cubs will be old enough to survive without her, but this vixen will never raise kitten killers again."
         },
         "fail_text": {
@@ -547,7 +547,7 @@
             "medium_prey"
         ],
         "intro_text": "p_l walks low to the ground, paws soft and light so as not to make a sound. Their jaws hang open to taste at the air, and a tingle of satisfaction shoots through them as they scent a nearby ground squirrel, fat in preparation for leaf-bare.",
-        "decline_text": "p_l watches it for a moment, then turns away and leaves. There's still time before leaf-bare, and if they wait just a bit they're sure to catch something even bigger.",
+        "decline_text": "p_l watches it for a moment, then turns away and leaves. There's still time before leaf-bare, and if they wait just a bit, they're sure to catch something even bigger.",
         "chance_of_success": 50,
         "exp": 10,
         "success_text": {
@@ -581,7 +581,7 @@
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "The wind blows a scent towards them, and app1 immediately drops into a crouch. It's hard to locate between the swaying stalks of grass, and they're pretty sure at one point it's long gone, but in the end they find and catch it!",
+            "unscathed_common": "The wind blows a scent towards them, and app1 immediately drops into a crouch. It's hard to locate between the swaying stalks of grass, and they're pretty sure at one point it's long gone, but in the end, they find and catch it!",
             "unscathed_rare": "app1 hears a quiet snuffling nearby, and slides into a hunting crouch. Slinking forward, they find the source is a squirrel, foraging for food! They stalk carefully and catch it while it's distracted, heading home with their head held high."
         },
         "fail_text": {
@@ -754,7 +754,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back p_tp_p.",
+            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app2 insists that {PRONOUN/app2/subject}'d much rather bring back p_tp_p.",
 	        "stat_skill": "s_c speeds off like the wind itself can't catch them, both impressing and frustrating the sibling trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -830,7 +830,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c speeds off like the wind itself can't catch them, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -906,7 +906,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c speeds off like the wind itself can't catch them, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -982,7 +982,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c speeds off like the wind itself can't catch them, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -1058,7 +1058,7 @@
         "chance_of_success": 40,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitly more delicous than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
+            "unscathed_common": "app1 thinks app2's p_tp_s looks infinitely more delicious than {PRONOUN/app1/poss} own contributions of two p_tp_p, while app3 insists that {PRONOUN/app3/subject}'d much rather bring back p_tp_p than the p_mp_s {PRONOUN/app3/subject} caught.",
 	        "stat_skill": "s_c speeds off like the wind itself can't catch them, both impressing and frustrating the siblings trying to keep up with {PRONOUN/s_c/object}."
             },
         "fail_text": {
@@ -1083,8 +1083,8 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "app1 collects two p_tp_p, and watches p_l take down a p_mp_s in a astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's p_tp_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two p_tp_p, and watches p_l take down a p_mp_s in an astonishing pounce. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's p_tp_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -1158,8 +1158,8 @@
         "chance_of_success": 50,
         "exp": 30,
         "success_text": {
-            "unscathed_common": "app1 collects two p_tp_p, and watches p_l take down a p_mp_s in a astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two p_mp_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's p_tp_p, making app1 grimace at what's got to be fake praise.",
-	        "stat_skill": "Watching s_c's displays of atheticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
+            "unscathed_common": "app1 collects two p_tp_p, and watches p_l take down a p_mp_s in an astonishing pounce and the rest of {PRONOUN/app1/poss} older siblings bring down two p_mp_p. {PRONOUN/app1/subject}{VERB/app1/'re/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's p_tp_p, making app1 grimace at what's got to be fake praise.",
+	        "stat_skill": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN/app1/subject}'ll never be able to do that?"
             },
         "fail_text": {
 	        "unscathed_common": "app1 yawns {PRONOUN/app1/poss} way through the not overly successful hunting patrol."
@@ -1209,8 +1209,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A p_mp_s and two p_tp_p is nothing to sniff at, as a hunting success, but stars above being alone with r_c makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them two healthy p_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to either of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them two healthy p_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} sibling. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -1338,8 +1338,8 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "A p_mp_s, three p_tp_p, and a couple p_mp_p are nothing to sniff at, as a hunting success, but stars above being alone with {PRONOUN/p_l/poss} siblings makes p_l feel like a kitten again. And not in the cute way either, in the chewing on tails, whiny, petty, immature way. Ugh.",
-            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a wit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
-	        "stat_skill": "s_c nets them four healthy p_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
+            "unscathed_rare": "The hunting patrol is perfectly successful and it matters not a whit to any of the warriors, because p_l makes a joke that {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
+	        "stat_skill": "s_c nets them four healthy p_mp_p to take back to camp, but it only irritates {PRONOUN/s_c/poss} siblings. r_c never even got the chance to even try for a pounce, {VERB/r_c/are/is} {PRONOUN/r_c/subject} only there to carry around s_c's prey?"
             },
         "fail_text": {
 	        "unscathed_common": "It isn't a very successful hunt - they'll have to head out again for more soon."
@@ -1467,7 +1467,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "It's not their normal task, but they're all smart enough to value supporting the Clan's medicine den. The patrol brings the herbs back to camp and they are put to good use.",
-            "stat_skill": "s_c carefully plucks some of the herbs and takes them back to the camp to be identified before the patrol goes to the trouble of collecting them, smartly decideding to get an informed opinion before committing the patrol."
+            "stat_skill": "s_c carefully plucks some of the herbs and takes them back to the camp to be identified before the patrol goes to the trouble of collecting them, smartly deciding to get an informed opinion before committing the patrol."
         },
         "fail_text": {
             "unscathed_common": "The patrol brings the herbs back to camp, only to find out that while the herbs promote good gut health, they're not a rare resource. Still, c_n will be eating an extra healthy dinner tonight with the herbs sprinkled into their freshkill."
@@ -1490,7 +1490,7 @@
         "success_text": {
             "unscathed_common": "r_c locates the mouse and begins to stalk. The mouse nibbles on a seed, unaware of the hunting cat. r_c waggles their haunches and leaps, pinning the mouse beneath a paw as they make the killing bite.",
             "unscathed_rare": "r_c pinpoints the location of the prey and begins creeping forward. They're almost within pouncing distance when the mouse suddenly bolts. With a lash of their tail, r_c leaps after the mouse, barely snagging it before it reaches a burrow. They purr in satisfaction as prey-blood hits their tongue.",
-            "stat_skill": "s_c immediately drops into a practised crouch, shimmying flawlessly along the ground and taking the perfectly plump mouse completely by surprise."
+            "stat_skill": "s_c immediately drops into a practiced crouch, shimmying flawlessly along the ground and taking the perfectly plump mouse completely by surprise."
         },
         "fail_text": {
             "unscathed_common": "r_c narrowly misses the mouse."

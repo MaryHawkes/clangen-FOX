@@ -21,7 +21,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "Surprisingly, r_c actually starts up a conversation with them about the herbs they're looking for. p_l launches into the usual spiel, but even more astonishingly, r_c is actually interested, and it makes their heart feel lighter getting to share their knowledge and skills with someone who respects them.",
-            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just a herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
+            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just an herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
             "unscathed_common": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common, and the other cat bluntly refuses to talk about boring herbs.",
@@ -61,7 +61,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "The ground is slippery and damp, and as p_l falls, r_c catches them. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
-            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just a herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
+            "stat_skill": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with them. It's just an herb gathering patrol, but p_l feels more relaxed than they've felt in moons when they come back to camp, smiling softly."
         },
         "fail_text": {
             "unscathed_common": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
@@ -176,7 +176,7 @@
         "success_text": {
             "unscathed_common": "While they haven't yet grown their flowers, the betony has no shortage of leaves for p_l's patrol to harvest.",
             "unscathed_rare": "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-            "stat_skill": "As ever, s_c's keen eyes pick out their target quickly, and they organise their patrol to bring back a great haul of betony for the herb stores."
+            "stat_skill": "As ever, s_c's keen eyes pick out their target quickly, and they organize their patrol to bring back a great haul of betony for the herb stores."
         },
         "fail_text": {
             "unscathed_common": "Hang on. Has p_l identified the betony correctly? They're not sure, and not willing to risk it. Better to be safe than sorry."
@@ -284,8 +284,8 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "Sure enough, all along the trailing branches of the blackberry brambles, new leaves are poking towards the sun. p_l carefully plucks them, not taking too many - they want this plant to supply the Clan in future moons too. The rest of the patrol listens to them describe how a medicine cat must predict the Clan's future need, respect for p_l growing.",
-            "unscathed_rare": "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine, as they organise the blackberry leaves, and p_l smiles appreciatively.",
-            "stat_skill": "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
+            "unscathed_rare": "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine, as they organize the blackberry leaves, and p_l smiles appreciatively.",
+            "stat_skill": "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. The patrol follows their lead, and it's a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
         },
         "fail_text": {
             "unscathed_common": "p_l manages to avoid a torn pelt only by the grace of StarClan, and isn't going to risk sending anyone else into the brambles with them having so many thorns at the moment. They'll have to try a different blackberry bush on another day."
@@ -426,7 +426,7 @@
         "success_text": {
             "unscathed_common": "The medicine cat carefully picks out catmint from its known hiding places, carting it back to camp where it will protect the Clan.",
             "unscathed_rare": "Fortunately, catmint starts trying to take over as much ground as possible as soon as it possibly can, and it's already enough of the way through newleaf to go harvest from its young leaves.",
-            "stat_skill": "s_c has a few favourite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp."
+            "stat_skill": "s_c has a few favorite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp."
         },
         "fail_text": {
             "unscathed_common": "It's alright to fail, p_l reminds themselves. At least they know where there <i>isn't</i> catmint, and that will make the next patrols to find it easier."
@@ -465,7 +465,7 @@
         "success_text": {
             "unscathed_common": "As they walk, p_l teaches app1 about how crucial catmint is for coughs, and how, although its scent holds drugged pleasure, part of the responsibility of being a medicine cat is avoiding becoming caught in its haze. The medicine cats carefully pick out catmint from its known hiding places, carting it back to camp where it will protect the Clan.",
             "unscathed_rare": "Fortunately, catmint starts trying to take over as much ground as possible as soon as it possibly can, and it's already enough of the way through newleaf to go harvest from its young leaves. p_l instructs app1 in how one judges these things, to try and promote the most growth from the precious plant while still bringing home the greatest harvest.",
-            "stat_skill": "s_c has a few favourite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp with app1."
+            "stat_skill": "s_c has a few favorite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp with app1."
         },
         "fail_text": {
             "unscathed_common": "app1 loses their head over the catmint, and p_l is forced to cancel the gathering patrol to take them back to camp until they regain their sense."
@@ -503,10 +503,10 @@
         "success_text": {
             "unscathed_common": "The warriors keep their heads, with the more experienced of p_l's helpers making themselves useful keeping those that are young or more impulsive focused on their task. The medicine cat and their team carefully pick out catmint from its known hiding places, carting it back to camp where it will protect the Clan.",
             "unscathed_rare": "Fortunately, catmint starts trying to take over as much ground as possible as soon as it possibly can, and it's already enough of the way through newleaf to go harvest from its young leaves. The patrol of warriors, while over-enthusiastic, calm themselves down when p_l demands their attention, and together the cats bring a fair harvest home.",
-            "stat_skill": "s_c has a few favourite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp, though the warriors are fairly unruly about the 'no rolling on the plants' rule."
+            "stat_skill": "s_c has a few favorite catmint plants, and goes to check whether they've regrown this newleaf. Two haven't, but another two have, and they're enough for a great harvest to take back to camp, though the warriors are fairly unruly about the 'no rolling on the plants' rule."
         },
         "fail_text": {
-            "unscathed_common": "p_l is proven unfortunately correct, as the patrol is full of juvenile behaviour and dumb jokes, rather than focused effort. The one catmint plant they successfully find ends up with their helpers rolling around in it, bruising all the stems until it's unharvestable, and p_l is furious by the time they return to camp."
+            "unscathed_common": "p_l is proven unfortunately correct, as the patrol is full of juvenile behavior and dumb jokes, rather than focused effort. The one catmint plant they successfully find ends up with their helpers rolling around in it, bruising all the stems until it's unharvestable, and p_l is furious by the time they return to camp."
         },
         "win_skills": [
             "SENSE,2"
@@ -1209,7 +1209,7 @@
         "chance_of_success": 70,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poison and stings. The white milk in their roots and stems keeps for a long time, and is a potent cure for poison - their leaves are weaker, but fast-acting, and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite, short-lived toy.",
+            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poison and stings. The white milk in their roots and stems keeps for a long time, and is a potent cure for poison - their leaves are weaker, but fast-acting, and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favorite, short-lived toy.",
             "unscathed_rare": "It's a successful gathering mission, with p_l striding back to camp with a great haul of whole, intact dandelion plants. Later, they'll sort the leaves and roots to be stored separately - the leaves remain fresh for a far shorter time.",
             "stat_skill": "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
         },
@@ -1249,7 +1249,7 @@
         "chance_of_success": 70,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. Both the potent milk in their roots and stems, and the fast-acting leaves... even the fluffy dandelion heads are useful as a c_n kitten's favourite, short lived toy. p_l smiles fondly as they remember watching app1 playing with them just a few short moons ago.",
+            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. Both the potent milk in their roots and stems, and the fast-acting leaves... even the fluffy dandelion heads are useful as a c_n kitten's favorite, short lived toy. p_l smiles fondly as they remember watching app1 playing with them just a few short moons ago.",
             "unscathed_rare": "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored separately, the leaves remain fresh for a far shorter time.",
             "stat_skill": "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead, they let app1 take the lead in finding the plants, praising them for all the progress they've made in herbcraft."
         },
@@ -1285,7 +1285,7 @@
         "chance_of_success": 30,
         "exp": 10,
         "success_text": {
-            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. Both the potent milk in their roots and stems, and the fast-acting leaves... even the fluffy dandelion heads are useful as a c_n kitten's favourite, short lived toy. The warriors smile at the sight, sharing fond nursery memories about them as they gather.",
+            "unscathed_common": "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. Both the potent milk in their roots and stems, and the fast-acting leaves... even the fluffy dandelion heads are useful as a c_n kitten's favorite, short lived toy. The warriors smile at the sight, sharing fond nursery memories about them as they gather.",
             "unscathed_rare": "It's a successful gathering mission, with p_l striding back to camp with a great haul of whole, intact dandelion plants. Later, they'll sort the leaves and roots to be stored separately - the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that have helped them bring home so many.",
             "stat_skill": "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
         },
@@ -1399,8 +1399,8 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "Elder leaves being used to <i>soothe</i> sprains, and elder leaves having to be gathered in a way that <i>risks</i> sprains, is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it does also remind everyone to be careful as they strip leaves from the tree.",
-            "unscathed_rare": "p_l manages to gather more than they were expecting - the tree they chose is in a good spot, and has begun its newleaf growth early and vigorously. The patrol chats and jokes to one another as they get to work plucking leaves to bring a impressive haul home.",
-            "stat_skill": "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging, thin branches, and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
+            "unscathed_rare": "p_l manages to gather more than they were expecting - the tree they chose is in a good spot, and has begun its newleaf growth early and vigorously. The patrol chats and jokes to one another as they get to work plucking leaves to bring an impressive haul home.",
+            "stat_skill": "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging, thin branches, and carting those back to camp instead. With so many assistants they can bring a truly massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
         },
         "fail_text": {
             "unscathed_common": "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -1695,7 +1695,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "Deep green, even in newleaf, and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path. They teach app1 how the leaves can be opened and used on top of cobwebs for wound binding - although the plant itself doesn't help the wound heal, the leaves make good structural support for other remedies.",
-            "unscathed_rare": "Suitable for soothing throat and pelt irritation, and with a welcome - albeit weird - habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise.",
+            "unscathed_rare": "Suitable for soothing throat and pelt irritation, and with a welcome - albeit weird - habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorize.",
             "stat_skill": "Go to where other animals wander through c_n's territory on little, beaten paths, wander around until you bump, nose-first, into a plantain plant, harvest. Simple, p_l teaches app1."
         },
         "fail_text": {
@@ -1842,7 +1842,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "These plants will be dead in leaf-fall, while the Clan won't stop needing painkillers in the colder seasons, so there's no time to waste - p_l goes out and brings back a decent harvest, with all the members of the patrol bringing back at least a couple dried flowerheads full of seeds each.",
-            "unscathed_rare": "The red poppy flowers are pretty, but it's the dried, husk-like flowerheads that contain the poppy seeds p_l wants, and they take as many as they can. All the warriors with them work hard to help, focused on a herb so famous that even <i>they</i> know its purpose.",
+            "unscathed_rare": "The red poppy flowers are pretty, but it's the dried, husk-like flowerheads that contain the poppy seeds p_l wants, and they take as many as they can. All the warriors with them work hard to help, focused on an herb so famous that even <i>they</i> know its purpose.",
             "stat_skill": "s_c uses the bright flowers to find the plants quickly, determined to bring back as many poppy seeds as possible. The rest of the patrol, knowing how important poppy seeds are as a painkiller, work hard, both for s_c and all of c_n."
         },
         "fail_text": {
@@ -2092,7 +2092,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but they stop, retrace their steps, and settle down to harvest it.",
-            "unscathed_rare": "It calms racing hearts and minds, bringing cats back from the shock of loss or injury... thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near their nest.",
+            "unscathed_rare": "It calms racing hearts and minds, bringing cats back from the shock of loss or injury... thyme is always both helpful and pleasant to have around, and p_l makes sure to organize the herb stores so that the scent wafts near their nest.",
             "stat_skill": "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb, as they make their way home."
         },
         "fail_text": {
@@ -2132,7 +2132,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "With the drizzle hiding scents, app1 almost walks straight past the thyme plant - but p_l gently herds them back, making sure the young cat understands the visual signs of the plant so they avoid that mistake in the future.",
-            "unscathed_rare": "It calms racing hearts and minds, bringing cats back from the shock of loss or injury... thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near the nests they and app1 curl up in at night.",
+            "unscathed_rare": "It calms racing hearts and minds, bringing cats back from the shock of loss or injury... thyme is always both helpful and pleasant to have around, and p_l makes sure to organize the herb stores so that the scent wafts near the nests they and app1 curl up in at night.",
             "stat_skill": "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1."
         },
         "fail_text": {
@@ -2241,7 +2241,7 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "The sharp tang of garlic leads p_l and app1 to a growing patch to bring home.",
-            "unscathed_rare": "The leaves, and especially the bulbs, of wild garlic are the preeminent herb to treat infection, even if using them results each time in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes, they need to prioritise treating their patients above listening to them.",
+            "unscathed_rare": "The leaves, and especially the bulbs, of wild garlic are the preeminent herb to treat infection, even if using them results each time in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes, they need to prioritize treating their patients above listening to them.",
             "stat_skill": "s_c, ever eagle-eyed, spots grass that looks suspiciously tall, with oddly thick blades. One sniff confirms it as wild garlic, and this patch has heaps to harvest with app1."
         },
         "fail_text": {

@@ -131,7 +131,7 @@
         },
         "fail_text": {
             "unscathed_common": "Confidently gathering them and prancing back to camp, app1 is then informed that redcurrants aren't a useful medicinal herb.",
-            "death": "Whatever. Identifying them is a medicine cat problem. app1 plucks the berries, surprised at the pleasant taste, and swallow a few. {PRONOUN/r_c/subject/CAP} {VERB/r_c/collapse/collapses} on the way back to camp, and there's nothing any cat can do for {PRONOUN/r_c/object}, having not identified deathberries before eating them.",
+            "death": "Whatever. Identifying them is a medicine cat problem. app1 plucks the berries, surprised at the pleasant taste, and swallows a few. {PRONOUN/r_c/subject/CAP} {VERB/r_c/collapse/collapses} on the way back to camp, and there's nothing any cat can do for {PRONOUN/r_c/object}, having not identified deathberries before eating them.",
             "injury": "Whatever. Identifying them is a medicine cat problem. app1 plucks the tasty berries, swallowing a few, and takes the rest back to camp where the medicine cat immediately starts work trying to save {PRONOUN/r_c/object} from deathberry poisoning."
         },
         "min_cats": 3,
@@ -484,7 +484,7 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "With a deep sigh, p_l holds back their temper, and instead sits down to explain their reasoning to the young cat. They can see why app1 thinks differently, but practicing this way will help app1 build muscle better than taking the cheap way out. app1 also sighs, apologising for their outburst.",
+            "unscathed_common": "With a deep sigh, p_l holds back their temper, and instead sits down to explain their reasoning to the young cat. They can see why app1 thinks differently, but practicing this way will help app1 build muscle better than taking the cheap way out. app1 also sighs, apologizing for their outburst.",
             "unscathed_rare": "Tired of hearing about how they don't understand, p_l swings around, performing a flawless rendition of the technique. Chastened, app1 lowers their gaze. They'll follow p_l's way of doing things then.",
             "stat_skill": "p_l is able to defuse the moment with a joke, and sneak in a quiet remark that has app1 rethinking things. Still, it's not the most fun training session.",
             "stat_trait": "This is unlike app1. s_c stops in their tracks, sitting their butt down in the middle of the path and refusing to move until app1 tells them what's bothering them. No, what's <i>actually</i> bothering them."
@@ -540,10 +540,10 @@
         "chance_of_success": 50,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "With a deep sigh, p_l holds back their temper, and instead sits down to explain their reasoning to the young cat. They can see why app1 thinks differently, but practicing this way will help app1 build muscle better than taking the cheap way out. app1 also sighs, apologising for their outburst.",
+            "unscathed_common": "With a deep sigh, p_l holds back their temper, and instead sits down to explain their reasoning to the young cat. They can see why app1 thinks differently, but practicing this way will help app1 build muscle better than taking the cheap way out. app1 also sighs, apologizing for their outburst.",
             "unscathed_rare": "Tired of hearing about how they don't understand, p_l swings around, performing a flawless rendition of the technique. Chastened, app1 lowers their gaze. They'll follow p_l's way of doing things then.",
             "stat_skill": "p_l is able to defuse the moment with a joke, and sneak in a quiet remark that has app1 rethinking things. Still, it's not the most fun training session.",
-            "stat_trait": "s_c has taken valuable time out of their day to personally help app1 with their studies, and this is completely juvenile behaviour. s_c isn't shy about telling app1 so, and by the time they're back in camp the apprentice is cowed, but respectful once more. "
+            "stat_trait": "s_c has taken valuable time out of their day to personally help app1 with their studies, and this is completely juvenile behavior. s_c isn't shy about telling app1 so, and by the time they're back in camp the apprentice is cowed, but respectful once more. "
         },
         "fail_text": {
             "unscathed_common": "p_l rolls their eyes, as amused by the apprentice's audacity as they are annoyed.",
@@ -1878,7 +1878,7 @@
         "biome": "Any",
         "season": "Any",
         "tags": ["training", "no_app", "big_change", "pos_dislike", "romantic", "no_change_fail", "rel_patrol"],
-        "intro_text": "r_c finds p_l out training in r_c's favourite spot - and not only does r_c have to share the spot, the pounce p_l is practising looks all wrong.",
+        "intro_text": "r_c finds p_l out training in r_c's favorite spot - and not only does r_c have to share the spot, the pounce p_l is practicing looks all wrong.",
         "decline_text": "Nope, nopidity nope, r_c isn't hanging around that idiot!",
         "chance_of_success": 60,
         "exp": 15,
@@ -1887,7 +1887,7 @@
             "unscathed_rare": "r_c bursts in and straight up laughs at p_l, telling {PRONOUN/p_l/object} exactly where {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} going wrong. p_l challenges r_c to do any better, and with a hrumph of irritation, the competition begins, both cats out to one-up each other."
         },
         "fail_text": {
-            "unscathed_common": "Whatever, it's not r_c's problem. {PRONOUN/r_c/subject/CAP} wait at the side of the training grounds for p_l to be done. But not only does p_l train stupidly, r_c falls asleep waiting for {PRONOUN/p_l/object}. Neither of them get anything done."
+            "unscathed_common": "Whatever, it's not r_c's problem. {PRONOUN/r_c/subject/CAP} wait at the side of the training grounds for p_l to be done. But not only does p_l train stupidly, r_c falls asleep waiting for {PRONOUN/p_l/object}. Neither of them gets anything done."
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -1903,7 +1903,7 @@
         "biome": "Any",
         "season": "Any",
         "tags": ["training", "no_app", "big_change", "pos_dislike", "romantic", "no_change_fail", "minor_injury", "rel_patrol"],
-        "intro_text": "p_l is working on {PRONOUN/p_l/poss} battle moves when r_c sticks {PRONOUN/r_c/poss} head around the corner. Perfect - not only will p_l get a training partner, but battering r_c (sheathed claws, <i>sheathed</i>, {PRONOUN/p_l/subject} {VERB/p_l/promise/promises}!) will be just a little more sasifying than putting a paw in any other Clanmate's face.",
+        "intro_text": "p_l is working on {PRONOUN/p_l/poss} battle moves when r_c sticks {PRONOUN/r_c/poss} head around the corner. Perfect - not only will p_l get a training partner, but battering r_c (sheathed claws, <i>sheathed</i>, {PRONOUN/p_l/subject} {VERB/p_l/promise/promises}!) will be just a little more satisfying than putting a paw in any other Clanmate's face.",
         "decline_text": "A sudden rain shower puts a damper on any thoughts of battle training.",
         "chance_of_success": 60,
         "exp": 15,
@@ -1928,12 +1928,12 @@
         "biome": "Any",
         "season": "Any",
         "tags": ["training", "no_app", "big_change", "pos_dislike", "romantic", "no_change_fail", "rel_patrol"],
-        "intro_text": "p_l and r_c find themselves hanging out together. Without any other Clanmates. This is, uh, sure to go well. p_l tries to start up a conversation about prey types, that seems safe.",
+        "intro_text": "p_l and r_c find themselves hanging out together. Without any other Clanmates. This is, uh, sure to go well. p_l tries to start up a conversation about prey types, yeah, that seems safe!",
         "decline_text": "You know what's safer? Not talking.",
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "r_c is dumb and likes dumb food. But then {PRONOUN/r_c/subject} offer to swap said horrible foulness for p_l's favourite the next time both are on the fresh-kill pile, and that's... really sweet actually. But then the argument starts again, and nope, r_c is the worst."
+            "unscathed_common": "r_c is dumb and likes dumb food. But then {PRONOUN/r_c/subject} offer to swap said horrible foulness for p_l's favorite the next time both are on the fresh-kill pile, and that's... really sweet actually. But then the argument starts again, and nope, r_c is the worst."
         },
         "fail_text": {
             "unscathed_common": "Whatever, it doesn't matter. Some cats just have weird tastes, p_l thinks, shrugging."
@@ -1961,7 +1961,7 @@
             "unscathed_rare": "I mean, hah, r_c? And <i>p_l</i>?? Like <i>that</i> could ever happen, r_c laughs, just a little forced. Yeah, like p_l could ever put up with r_c for that long, p_l agrees heartily. This immediately starts an argument. They don't even get to see the pretty sunset r_c was planning on."
         },
         "fail_text": {
-            "unscathed_common": "r_c stutters so much that it's honestly a miracle p_l doesn't justifiably make fun of {PRONOUN/r_c/object} for it - {PRONOUN/r_c/subject} don't think {PRONOUN/r_c/subject} could take that right now. But p_l seems simiilarly preoccupied and distracted. Neither of them manages any productive training."
+            "unscathed_common": "r_c stutters so much that it's honestly a miracle p_l doesn't justifiably make fun of {PRONOUN/r_c/object} for it - {PRONOUN/r_c/subject} don't think {PRONOUN/r_c/subject} could take that right now. But p_l seems similarly preoccupied and distracted. Neither of them manages any productive training."
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -2035,7 +2035,7 @@
             "unscathed_common": "If there is a single thing that r_c and p_l can both agree on it's this; how dare anyone order them to be friends! They complain to each other about the leader's commands for a good long while, before both being swept up into their normal arguments. Which they'll be continuing as long as they feel like, thank you."
         },
         "fail_text": {
-            "unscathed_common": "It's the most boring afternoon imaginable, both cats padding in conversational tip-toe rather than their usual exuberant dynamic, but yes, fine, under threat of looking like fox-dung in front of c_n, maybe they can work out a way of getting along."
+            "unscathed_common": "It's the most boring afternoon imaginable, both cats padding in conversational tiptoe rather than their usual exuberant dynamic, but yes, fine, under threat of looking like fox-dung in front of c_n, maybe they can work out a way of getting along."
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -2056,7 +2056,7 @@
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "p_l snaps. Oh by StarClan, can r_c not shut up for ONE SECOND?! Falling onto {PRONOUN/p_l/poss} rump, horrified at {PRONOUN/p_l/self}, p_l has a fantastic view of r_c, ears up with shock, twisting round to gape at {PRONOUN/p_l/object}. Which lasts for a split second before r_c is calling p_l mouse-brained and about as helpful as Twolegs in leafbare, {PRONOUN/r_c/poss} tirade barely interrupted by p_l's outburst. Maybe there are some cats in the Clan p_l is still just another cat to. The thought is strangely comforting."
+            "unscathed_common": "p_l snaps. Oh, by StarClan, can r_c not shut up for ONE SECOND?! Falling onto {PRONOUN/p_l/poss} rump, horrified at {PRONOUN/p_l/self}, p_l has a fantastic view of r_c, ears up with shock, twisting round to gape at {PRONOUN/p_l/object}. Which lasts for a split second before r_c is calling p_l mouse-brained and about as helpful as Twolegs in leafbare, {PRONOUN/r_c/poss} tirade barely interrupted by p_l's outburst. Maybe there are some cats in the Clan p_l is still just another cat to. The thought is strangely comforting."
         },
         "fail_text": {
             "unscathed_common": "{PRONOUN/p_l/subject} {VERB/p_l/breath/breathes}, reminding {PRONOUN/p_l/self} of {PRONOUN/p_l/poss} responsibilities as leader of the clan. How would it look if {PRONOUN/p_l/subject} just exploded at r_c, no matter how justified?"
@@ -2081,10 +2081,10 @@
         "exp": 15,
         "success_text": {
             "unscathed_common": "They cannot.",
-            "unscathed_rare": "r_c knows <i>exactly</i> what {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} doing, darting infront of p_l as they run together, but p_l sees {PRONOUN/r_c/object} coming and flips the script, hooking r_c's back paw to trip <i>{PRONOUN/r_c/object}</i> instead. Hah!"
+            "unscathed_rare": "r_c knows <i>exactly</i> what {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} doing, darting in front of p_l as they run together, but p_l sees {PRONOUN/r_c/object} coming and flips the script, hooking r_c's back paw to trip <i>{PRONOUN/r_c/object}</i> instead. Hah!"
         },
         "fail_text": {
-            "unscathed_common": "Carefully and very politely, p_l and r_c manage to bore each other to death. Or, as other member of the clan describes it; have a productive afternoon."
+            "unscathed_common": "Carefully and very politely, p_l and r_c manage to bore each other to death. Or as other members of the clan describe it; have a productive afternoon."
         },
         "min_cats": 2,
         "max_cats": 2,
@@ -2155,7 +2155,7 @@
         "chance_of_success": 60,
         "exp": 15,
         "success_text": {
-            "unscathed_common": "Again, again, again, adjusting the weight on {PRONOUN/r_c/poss} paws, pelt prickling with awareness as r_c keeps it from brushing anything. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} so focused that p_l's surprised swear startles {PRONOUN/r_c/object} too, r_c giggling helplessly. Both cats pause for a moment, caught between laughter and embarassment.",
+            "unscathed_common": "Again, again, again, adjusting the weight on {PRONOUN/r_c/poss} paws, pelt prickling with awareness as r_c keeps it from brushing anything. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} so focused that p_l's surprised swear startles {PRONOUN/r_c/object} too, r_c giggling helplessly. Both cats pause for a moment, caught between laughter and embarrassment.",
             "unscathed_rare": "p_l has some harsh advice for r_c, blunt and kind of insulting. But r_c checks {PRONOUN/r_c/poss} temper and listens instead, and the shocked, wide-eyed admiration of p_l when r_c bursts unseen from cover to knock {PRONOUN/p_l/object} to the ground is worth all the effort."
         },
         "fail_text": {
@@ -2199,12 +2199,12 @@
         "exp": 20,
         "success_text": {
             "unscathed_common": "Like birds into flight the two cats leap into training, bounding in joyful synchronization, the strength of their friendship lending itself to fantastic risks and complete trust, their play-battle as much game as exercise, round and round in wild abandon until they both lie, utterly exhausted, perfectly content. Their purrs mingle quietly as they share tongues, exchanging secrets and dreams.",
-	        "unscathed_rare": "They push themselves hard, rushing through their training to get to steal more time to catch up together. And yet, with r_c, even stretching {PRONOUN/p_l/poss} speed to its limit feels like a game to p_l. Still, when both of them collpase in a sunbeam, heaving for breath and stretching out muscles that want to cramp, it's p_l's favourite bit of the day. {PRONOUN/p_l/subject/CAP} {VERB/p_l/knead/kneads} helpfully at r_c's legs, easing the sore muscles as they both relax in the sun together.",
-	        "stat_trait": "They've barely left camp before s_c is off, leading them both on an enchanting, feral, glorious romp through the territory, heedless of any barrier in {PRONOUN/s_c/poss} way, wild and free and rich in pure excitement. To crash along with {PRONOUN/s_c/poss} best friend, laughing and skidding and bouncing like kits, it's like fresh prey-blood on the tonuge, like the first suns of newleaf, it's just - essential. They need to do this more often!"
+	        "unscathed_rare": "They push themselves hard, rushing through their training to get to steal more time to catch up together. And yet, with r_c, even stretching {PRONOUN/p_l/poss} speed to its limit feels like a game to p_l. Still, when both of them collapse in a sunbeam, heaving for breath and stretching out muscles that want to cramp, it's p_l's favorite bit of the day. {PRONOUN/p_l/subject/CAP} {VERB/p_l/knead/kneads} helpfully at r_c's legs, easing the sore muscles as they both relax in the sun together.",
+	        "stat_trait": "They've barely left camp before s_c is off, leading them both on an enchanting, feral, glorious romp through the territory, heedless of any barrier in {PRONOUN/s_c/poss} way, wild and free and rich in pure excitement. To crash along with {PRONOUN/s_c/poss} best friend, laughing and skidding and bouncing like kits, it's like fresh prey-blood on the tongue, like the first suns of newleaf, it's just - essential. They need to do this more often!"
         },
         "fail_text": {
 	"unscathed_common": "It's just not the day for it - first r_c trips on a root, but is fine to continue, then p_l makes a comment {PRONOUN/p_l/subject} {VERB/p_l/know/knows} is dumb - it just doesn't go how they'd hoped for.",
-	"unscathed_stat": "They head out of camp, and r_c is nearly giddy with the chance to spend time together, but s_c just isn't able to lighten up for long enough to enjoy it. There's something weighing {PRONOUN/s_c/object} down, like rot in crowfood, and {PRONOUN/s_c/subject} {VERB/s_c/apologise/apologises} to r_c, cutting the patrol short."
+	"unscathed_stat": "They head out of camp, and r_c is nearly giddy with the chance to spend time together, but s_c just isn't able to lighten up for long enough to enjoy it. There's something weighing {PRONOUN/s_c/object} down, like rot in crowfood, and {PRONOUN/s_c/subject} {VERB/s_c/apologize/apologizes} to r_c, cutting the patrol short."
         },
         "win_trait": ["childish", "playful", "daring", "adventurous", "shameless", "competitive", "oblivious", "flamboyant"],
         "fail_trait": ["cold", "insecure", "strict", "arrogant", "grumpy", "gloomy"],
@@ -2233,7 +2233,7 @@
     "fail_text": {
         "unscathed_common": "p_l tries to talk to app1 during a break, but it doesn't work. Maybe this relationship is just another thing p_l has sacrificed to lead c_n. The thought bites at {PRONOUN/p_l/object}.",
         "injury": "p_l tries to get app1 to slow down long enough to talk to {PRONOUN/p_l/object}, to find out what's gotten into {PRONOUN/p_l/poss} kit, but app1 races away, shouting back something about {PRONOUN/app1/poss} skills. By the time p_l catches up, app1 has already faceplanted into the ground, hard enough to need to return to camp in awkward silence.",
-        "stat_injury": "p_l's attempts to open up a honest conversation with app1 are met with strong teenage derision, and p_l resolves to try again later. app1 doesn't give {PRONOUN/p_l/object} the chance, instead getting injured while waltzing around ignoring p_l's instructions."
+        "stat_injury": "p_l's attempts to open up an honest conversation with app1 are met with strong teenage derision, and p_l resolves to try again later. app1 doesn't give {PRONOUN/p_l/object} the chance, instead getting injured while waltzing around ignoring p_l's instructions."
     },
     "win_trait": ["compassionate", "thoughtful", "calm", "careful", "faithful", "loving", "loyal", "wise", "sincere"],
     "fail_trait": ["troublesome", "ambitious", "childish", "cold", "arrogant", "competitive", "rebellious"],
@@ -2262,7 +2262,7 @@
     "fail_text": {
         "unscathed_common": "p_l tries to talk to app1 during a break, but it doesn't work. Maybe this relationship is just another thing p_l has sacrificed to lead c_n. The thought bites at {PRONOUN/p_l/object}.",
         "injury": "p_l tries to get app1 to slow down long enough to talk to {PRONOUN/p_l/object}, to find out what's gotten into {PRONOUN/p_l/poss} kit, but app1 races away, shouting back something about {PRONOUN/app1/poss} skills. By the time p_l catches up, app1 has already faceplanted into the ground, hard enough to need to return to camp in awkward silence.",
-        "stat_injury": "p_l's attempts to open up a honest conversation with app1 are met with strong teenage derision, and p_l resolves to try again later. app1 doesn't give {PRONOUN/p_l/object} the chance, instead getting injured while waltzing around ignoring p_l's instructions."
+        "stat_injury": "p_l's attempts to open up an honest conversation with app1 are met with strong teenage derision, and p_l resolves to try again later. app1 doesn't give {PRONOUN/p_l/object} the chance, instead getting injured while waltzing around ignoring p_l's instructions."
     },
     "win_trait": ["compassionate", "thoughtful", "calm", "careful", "faithful", "loving", "loyal", "wise", "sincere"],
     "fail_trait": ["troublesome", "ambitious", "childish", "cold", "arrogant", "competitive", "rebellious"],
@@ -2279,16 +2279,16 @@
     "biome": "Any",
     "season": "Any",
     "tags": ["training", "warrior", "apprentice", "patrol_to_p_l", "big_change", "respect", "disrespect", "comfort"],
-    "intro_text": "p_l looks down at the group they have to try and teach, face doubtful. Camp maintainence isn't a glamourous topic, especially in the eyes of younger cats.",
+    "intro_text": "p_l looks down at the group they have to try and teach, face doubtful. Camp maintenance isn't a glamourous topic, especially in the eyes of younger cats.",
     "decline_text": "p_l calls off the lesson.",
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
         "unscathed_common": "When the topic is clawing the arse of an enemy warrior, anyone can get a young hothead's attention, but catching and holding it when the lesson is about gathering materials to reinforce camp? That takes real skill, though p_l doesn't get acknowledged for it often.",
-        "unscathed_rare": "app1 tries to derail p_l and switch to fighting training instead - but p_l asks, quick as an unsheathed claw, what's more important, the nursery, or the warrior protecting it? The nursury, obviously - so app1 nods, sits {PRONOUN/app1/poss} rump down, and listens to p_l explain how one helps weatherproof a kitten's den."
+        "unscathed_rare": "app1 tries to derail p_l and switch to fighting training instead - but p_l asks, quick as an unsheathed claw, what's more important, the nursery, or the warrior protecting it? The nursery, obviously - so app1 nods, sits {PRONOUN/app1/poss} rump down, and listens to p_l explain how one helps weatherproof a kitten's den."
     },
     "fail_text": {
-        "unscathed_common": "p_l loses app1's attention - disrespectfully, app1 wanders off to practise {PRONOUN/app1/poss} battle moves."
+        "unscathed_common": "p_l loses app1's attention - disrespectfully, app1 wanders off to practice {PRONOUN/app1/poss} battle moves."
     },
     "min_cats": 3,
     "max_cats": 6,
@@ -2308,7 +2308,7 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "Commanding attention, p_l takes the patrol through the familiar steps of the warrior code as they walk the territory - no, but have they considered what that rule truely <i>means</i>? Would they follow it to their own death? To their friend's? To a kit's? Have they truly reflected on their dedication to the code?",
+        "unscathed_common": "Commanding attention, p_l takes the patrol through the familiar steps of the warrior code as they walk the territory - no, but have they considered what that rule truly <i>means</i>? Would they follow it to their own death? To their friend's? To a kit's? Have they truly reflected on their dedication to the code?",
         "unscathed_rare": "Padding meow by meow through the warrior code, p_l impacts their ultimate lesson - that there is always, <i>always</i> a point where the code must be disregarded. To follow something blindly is not to truly follow it at all, and the code exists to guide their lives, not dictate them."
     },
     "fail_text": {
@@ -2332,7 +2332,7 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "The patrol quietens down immediately, p_l's reputation as a storyteller proceeding {PRONOUN/p_l/object}. Into the attentive silence, p_l spins the picture of a cat who slipped through time's claws to immortality, always young, forever strong. But {PRONOUN/p_l/subject} {VERB/p_l/whisper/whispers} of the costs; never learning, never growing, left behind by friends and family who lived and died. In the end, the cat became a hollow shell, unteathered by the world - for it's time's scarcity that gives life its value.",
+        "unscathed_common": "The patrol quietens down immediately, p_l's reputation as a storyteller proceeding {PRONOUN/p_l/object}. Into the attentive silence, p_l spins the picture of a cat who slipped through time's claws to immortality, always young, forever strong. But {PRONOUN/p_l/subject} {VERB/p_l/whisper/whispers} of the costs; never learning, never growing, left behind by friends and family who lived and died. In the end, the cat became a hollow shell, untethered by the world - for the scarcity of time is what gives life its value.",
         "unscathed_rare": "Once upon a time, there was a kittypet so stealthy - yes, a kittypet - that time itself didn't know they existed. When after many long years the cat should have been taken in their sleep, time forgot to. Instead, the cat just aged and aged and aged, their fur becoming thin and falling out until none was left, bald and hairless and wrinkled. It's said they're still out there, living with their Twolegs, and every so often you'll find a warrior who swears they've met them."
     },
     "fail_text": {
@@ -2351,16 +2351,16 @@
     "biome": "Any",
     "season": "Any",
     "tags": ["training", "warrior", "apprentice", "patrol_to_p_l", "big_change", "respect", "trust"],
-    "intro_text": "Leading the group of cats around {PRONOUN/p_l/object} to a good vantage point, p_l settles down. As the patrol chats amoung themselves, something sparks p_l's attention. It reminds {PRONOUN/p_l/object} of charming Casanova, and it occurs to {PRONOUN/p_l/object} that maybe not every cat here knows that history.",
+    "intro_text": "Leading the group of cats around {PRONOUN/p_l/object} to a good vantage point, p_l settles down. As the patrol chats among themselves, something sparks p_l's attention. It reminds {PRONOUN/p_l/object} of charming Casanova, and it occurs to {PRONOUN/p_l/object} that maybe not every cat here knows that history.",
     "decline_text": "It's a lovely day - too lovely to be ruined by mentions of that ancient furball.",
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
         "unscathed_common": "Casanova was a kittypet, coat long and beautiful and always combed just-so by his Twolegs, charming and sly and full of love and attention for any she-cat who'd stand still long enough to accept it. Generations ago, he fathered litters across half a dozen dens, full of promises of help and support before he moved on to the next molly without a backward glance. It's not a nice tale. But it's one important to remember.",
-        "unscathed_rare": "Ah, Casanova, famous for his charm trying to get the attention of a she-cat he liked, infamous for his vanishing acts afterwards. What p_l tries to emphasise about the history lesson isn't the infamous cad, it's that the Clans took care of the litters he fathered anyway, something where the strength of the Clan saved tiny lives that would've been lost to single motherhood."
+        "unscathed_rare": "Ah, Casanova, famous for his charm trying to get the attention of a she-cat he liked, infamous for his vanishing acts afterwards. What p_l tries to emphasize about the history lesson isn't the infamous cad, it's that the Clans took care of the litters he fathered anyway, something where the strength of the Clan saved tiny lives that would've been lost to single motherhood."
     },
     "fail_text": {
-        "unscathed_common": "The patrol refuses to quieten down and pay attention, and it's not worth p_l's effort to edcucate such an ungrateful audience."
+        "unscathed_common": "The patrol refuses to quieten down and pay attention, and it's not worth p_l's effort to educate such an ungrateful audience."
     },
     "min_cats": 3,
     "max_cats": 6,
@@ -2375,13 +2375,13 @@
     "biome": "Any",
     "season": "Any",
     "tags": ["training", "warrior", "patrol_to_p_l", "big_change", "respect", "disrespect", "comfort"],
-    "intro_text": "p_l has plans for a clever little battle move - but {PRONOUN/p_l/subject} {VERB/p_l/need/needs} a couple cats to practise it with.",
+    "intro_text": "p_l has plans for a clever little battle move - but {PRONOUN/p_l/subject} {VERB/p_l/need/needs} a couple cats to practice it with.",
     "decline_text": "Today isn't the day for this lesson.",
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "Pulling the patrol together into a huddle, p_l explains the plan. Together, they're going to practise a coordinated kind of tackle, intended to shove an enemy warrior off a Clanmate, knock them silly, and give enough time to rescue their injured Clanmate. Looking around the determined faces, p_l nods. They can do this!",
-        "unscathed_rare": "It's hard to describe, but eventually p_l manages to communicate {PRONOUN/p_l/poss} idea, a type of kicking-off maneuver where a warrior stimultanously gets distance from an opponent and can also wind them if they kick right in the diaphram. The patrol practises until they've got it, everyone takes a turn getting winded by sheathed claws."
+        "unscathed_common": "Pulling the patrol together into a huddle, p_l explains the plan. Together, they're going to practice a coordinated kind of tackle, intended to shove an enemy warrior off a Clanmate, knock them silly, and give enough time to rescue their injured Clanmate. Looking around the determined faces, p_l nods. They can do this!",
+        "unscathed_rare": "It's hard to describe, but eventually p_l manages to communicate {PRONOUN/p_l/poss} idea, a type of kicking-off maneuver where a warrior simultaneously gets distance from an opponent and can also wind them if they kick right in the diaphragm. The patrol practices until they've got it, everyone takes a turn getting winded by sheathed claws."
     },
     "fail_text": {
         "unscathed_common": "r_c isn't comfortable doing such intense fighting training, but also doesn't bring it up, instead going for the worst of both worlds where {PRONOUN/r_c/subject} still {VERB/r_c/do/does} training and {VERB/r_c/ruin/ruins} it for the other cats, flinching back from being a good training partner."
@@ -2428,7 +2428,7 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "p_l, athletic and not an idiot about it, redirects the training session to both a theoretical and practical demonstration of stretching - how to target one muscle group over another, what's a good pain that indicates you're increasing your flexibilty and what's a bad pain that signals STOP NOW.",
+        "unscathed_common": "p_l, athletic and not an idiot about it, redirects the training session to both a theoretical and practical demonstration of stretching - how to target one muscle group over another, what's a good pain that indicates you're increasing your flexibility and what's a bad pain that signals STOP NOW.",
         "unscathed_rare": "app1 argues back at {PRONOUN/p_l/object} - is p_l really going to turn this into a lesson on stretching??? But yes, absolutely {PRONOUN/p_l/subject} {VERB/p_l/are/is}, training without limbering up beforehand can result in dumb injuries and stupid mistakes, p_l isn't letting that happen on {PRONOUN/p_l/poss} watch."
     },
     "fail_text": {
@@ -2452,7 +2452,7 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "There's a difference between being careful and being rude, p_l instructs. Some things are always safe to talk about, app1's favourite prey, the health of the elders, the birth of new kits, but always remember, if the cat {PRONOUN/app1/subject}{VERB/app1/'re/'s} talking to is worth anything, they'll accept that app1 can't talk about something with grace and understanding, not snippishness and mean comments.",
+        "unscathed_common": "There's a difference between being careful and being rude, p_l instructs. Some things are always safe to talk about, app1's favorite prey, the health of the elders, the birth of new kits, but always remember, if the cat {PRONOUN/app1/subject}{VERB/app1/'re/'s} talking to is worth anything, they'll accept that app1 can't talk about something with grace and understanding, not snippishness and mean comments.",
         "unscathed_rare": "Think about the universal experiences you have in comment, p_l suggests. Every apprentice {PRONOUN/app1/subject} {VERB/app1/talk/talks} to is also going through life in the apprentice den, they should have plenty in common that isn't Clan secrets."
     },
     "fail_text": {
@@ -2476,8 +2476,8 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "The spirit beside {PRONOUN/p_l/object} calls to app1, a murmur that dirfts in and out of p_l's hearing, making {PRONOUN/p_l/poss} ears twitch. It isn't bad advice though. After another fall p_l pads forward to pass on the message - while it can be difficult to interpret the words of those who've gone beyond, seeing as they've been sitting there yelling the same advice over and over again p_l will manage.",
-        "unscathed_rare": "p_l is confused. Why manifest here, now, during this training? But when the ghostly presence's temper snaps and they charge in, incorporally trying to show app1 how it's done (to app1's complete and ongoing ignorance of the spiritual situation), p_l understands. This cat was an apprentice too, though they never grew older."
+        "unscathed_common": "The spirit beside {PRONOUN/p_l/object} calls to app1, a murmur that drfits in and out of p_l's hearing, making {PRONOUN/p_l/poss} ears twitch. It isn't bad advice though. After another fall p_l pads forward to pass on the message - while it can be difficult to interpret the words of those who've gone beyond, seeing as they've been sitting there yelling the same advice over and over again p_l will manage.",
+        "unscathed_rare": "p_l is confused. Why manifest here, now, during this training? But when the ghostly presence's temper snaps and they charge in, incorporeally trying to show app1 how it's done (to app1's complete and ongoing ignorance of the spiritual situation), p_l understands. This cat was an apprentice too, though they never grew older."
     },
     "fail_text": {
         "unscathed_common": "The rest of the patrol is really disappointed in p_l, who seems to have {PRONOUN/p_l/poss} head in the clouds today."
@@ -2495,7 +2495,7 @@
     "biome": "Any",
     "season": "Any",
     "tags": ["training", "warrior", "apprentice", "patrol_to_p_l", "respect", "disrespect", "trust", "distrust"],
-    "intro_text": "While practising their pounce, app1 goes down hard, falling in exactly the wrong way. {PRONOUN/app1/subject/CAP} scramble up with a yelp, one paw held off the ground.",
+    "intro_text": "While practicing their pounce, app1 goes down hard, falling in exactly the wrong way. {PRONOUN/app1/subject/CAP} scramble up with a yelp, one paw held off the ground.",
     "decline_text": "It's only a couple minutes before {PRONOUN/app1/subject}{VERB/app1/'re/'s} bouncing around again - apprentices are made of jelly.",
     "chance_of_success": 60,
     "exp": 30,
@@ -2524,7 +2524,7 @@
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "{PRONOUN/p_l/subject/CAP}{VERB/p_l/'re/'s} all close here, literally, and it's only that fact that gives p_l the confidence to open up, pelt prickling with vulerability as {PRONOUN/p_l/subject} {VERB/p_l/murmur/murmurs} of the omen_list {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} seen recently, how {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} been struggling to piece together what it could all mean. {PRONOUN/p_l/subject/CAP} {VERB/p_l/need/needs} help, {PRONOUN/p_l/subject} {VERB/p_l/need/needs} advice.",
+        "unscathed_common": "{PRONOUN/p_l/subject/CAP}{VERB/p_l/'re/'s} all close here, literally, and it's only that fact that gives p_l the confidence to open up, pelt prickling with vulnerability as {PRONOUN/p_l/subject} {VERB/p_l/murmur/murmurs} of the omen_list {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} seen recently, how {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} been struggling to piece together what it could all mean. {PRONOUN/p_l/subject/CAP} {VERB/p_l/need/needs} help, {PRONOUN/p_l/subject} {VERB/p_l/need/needs} advice.",
         "unscathed_rare": "It's not something they <i>want</i> to talk about, but p_l gives in, knowing {PRONOUN/p_l/subject} should share {PRONOUN/p_l/poss} burden and gift. Recently, {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} seen omen_list, though {PRONOUN/p_l/subject} can't yet tell what it means for c_n, or {PRONOUN/p_l/poss} friends."
     },
     "fail_text": {
@@ -2576,7 +2576,7 @@
     "exp": 30,
     "success_text": {
         "unscathed_common": "p_l struggles to get to {PRONOUN/p_l/poss} feet, unsteady and disorientated - only to find r_c there, slipping beside {PRONOUN/p_l/object} to support {PRONOUN/p_l/poss} weight. No one in c_n is alone, and the patrol stops in their tracks to make sure p_l is okay. Clairvoyance is a powerful, unstable gift.",
-        "unscathed_rare": "{PRONOUN/p_l/subject/CAP} don't know what it means, {PRONOUN/p_l/subject} <i>never</i> {VERB/p_/know/knows} what it means, and p_l curses the stars as {PRONOUN/p_l/subject} {VERB/p_l/rise/rises} to {PRONOUN/p_l/poss} feet, apologising profusely for disrupting the patrol."
+        "unscathed_rare": "{PRONOUN/p_l/subject/CAP} don't know what it means, {PRONOUN/p_l/subject} <i>never</i> {VERB/p_/know/knows} what it means, and p_l curses the stars as {PRONOUN/p_l/subject} {VERB/p_l/rise/rises} to {PRONOUN/p_l/poss} feet, apologizing profusely for disrupting the patrol."
     },
     "fail_text": {
         "unscathed_common": "It's - it's nothing. p_l doesn't want to talk about it."
@@ -2621,13 +2621,13 @@
     "biome": "Any",
     "season": "Any",
     "tags": ["training", "warrior", "patrol_to_p_l", "respect", "trust", "distrust", "disrespect"],
-    "intro_text": "While the cats are out training, the subject of Twolegs comes up. r_c tells everyone to just not get caught by them. o_c1 suggests clawing their faces off, or their ankles, if any cat has trouble reaching up that high. p_l laughes, and the patrol turns to {PRONOUN/p_l/object}.",
+    "intro_text": "While the cats are out training, the subject of Twolegs comes up. r_c tells everyone to just not get caught by them. o_c1 suggests clawing their faces off, or their ankles, if any cat has trouble reaching up that high. p_l laughs, and the patrol turns to {PRONOUN/p_l/object}.",
     "decline_text": "Oh, nothing, don't worry about it.",
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
-        "unscathed_common": "Look, the Clanborn cats are welcome to claw as many Twolegs as they like - but if what they actually want is for a Twolegs to leave them alone, it's simple. Take it from a former kittypet - if you hiss at a Twolegs, they'll hiss right back, you take a swipe, they'll want to swipe at you. Just chill out and duck away.",
-        "unscathed_rare": "The Clan cats really think they'd win a strength match against a Twolegs? Nah, try the kittypet way instead, p_l suggests from {PRONOUN/p_l/poss} own past. Just trot off down some little path that the big clumsy oafs can't follow."
+        "unscathed_common": "Look, the Clanborn cats are welcome to claw as many Twolegs as they like - but if what they actually want is for Twolegs to leave them alone, it's simple. Take it from a former kittypet - if you hiss at a Twoleg, they'll hiss right back, you take a swipe, they'll want to swipe at you. Just chill out and duck away.",
+        "unscathed_rare": "The Clan cats really think they'd win a strength match against a Twoleg? Nah, try the kittypet way instead, p_l suggests from {PRONOUN/p_l/poss} own past. Just trot off down some little path that the big clumsy oafs can't follow."
     },
     "fail_text": {
         "unscathed_common": "p_l starts to give advice based on {PRONOUN/p_l/poss} own experiences as a kittypet - but none of the rest of the patrol is interested in hearing it."
@@ -2646,12 +2646,12 @@
     "season": "Any",
     "tags": ["training", "warrior", "patrol_to_p_l", "respect", "trust", "distrust", "disrespect"],
     "intro_text": "While the cats are out training, the discussion turns to rogues. p_l perks {PRONOUN/p_l/poss} ears up - {PRONOUN/p_l/object} know all about it.",
-    "decline_text": "But {PRONOUN/p_l/object} {VERB/p_l/decide/dicides} to listen instead of joining in the conversation.",
+    "decline_text": "But {PRONOUN/p_l/object} {VERB/p_l/decide/decides} to listen instead of joining in the conversation.",
     "chance_of_success": 60,
     "exp": 30,
     "success_text": {
         "unscathed_common": "It's not always fun, dredging up bits and pieces from {PRONOUN/p_l/poss} past, but watching the rest of the patrol's wide eyes makes it seem worth it. Not only will p_l feel better about {PRONOUN/p_l/poss} Clanmates preparation for how desperate a rogue can be, but this kind of quiet respect is... well, it's a strange warmth.",
-        "unscathed_rare": "p_l tells the group of how it's not that all rogues are aggressive - but all rogues are so so much more alone than the Clan cats, so much more vulerable, so much more scared of showing that soft underbelly. It's worth remembering, the next time one turns up on the border."
+        "unscathed_rare": "p_l tells the group of how it's not that all rogues are aggressive - but all rogues are so so much more alone than the Clan cats, so much more vulnerable, so much more scared of showing that soft underbelly. It's worth remembering, the next time one turns up on the border."
     },
     "fail_text": {
         "unscathed_common": "p_l starts to give advice based on {PRONOUN/p_l/poss} own experiences before {PRONOUN/p_l/subject} joined c_n - but the rest of the patrol is uninterested."
@@ -2774,7 +2774,7 @@
         "exp": 10,
         "success_text": {
             "unscathed_common": "Sluggishly, app1 heads out into the territory to find r_c. By the time the sun starts to set, {PRONOUN/app1/subject} are about to lose hope. However, {PRONOUN/app1/subject} {VERB/app1/spot/spots} r_c nibbling on a pigeon's wing. Imagining an enemy warrior, app1 attacks r_c and catches {PRONOUN/r_c/object} off-guard! After a brief tussle, r_c admits defeat, and guides app1 home.",
-            "unscathed_rare": "app1 is nervous upon heading out. However, {PRONOUN/app1/subject} {VERB/app1/manage/manages} to pick up r_c's scent within a few hours, and follow the trail. When {PRONOUN/app1/subject} find r_c, the warrior is drinking from a stream. Yowling, app1 leaps at r_c and sweeps {PRONOUN/r_c/object} off {PRONOUN/r_c/poss} feet into the shallow water. r_c is winded, and after {PRONOUN/r_c/subject} stand up, {PRONOUN/r_c/subject} congratulate app1.",
+            "unscathed_rare": "app1 is nervous upon heading out. However, {PRONOUN/app1/subject} {VERB/app1/manage/manages} to pick up r_c's scent within a few hours, and follow the trail. When {PRONOUN/app1/subject} finds r_c, the warrior is drinking from a stream. Yowling, app1 leaps at r_c and sweeps {PRONOUN/r_c/object} off {PRONOUN/r_c/poss} feet into the shallow water. r_c is winded, and after {PRONOUN/r_c/subject} stand up, {PRONOUN/r_c/subject} congratulate app1.",
             "stat_skill": "app1 was already awake, and raring to go. {PRONOUN/app1/subject/CAP} run off before the deputy can say anything. It is just a game of hide and seek, after all. When {PRONOUN/app1/subject} {VERB/app1/find/finds} r_c {PRONOUN/app1/subject} have to stifle {PRONOUN/app1/poss} chitters of excited pleasure. r_c must have heard {PRONOUN/app1/object}, because app1 sees {PRONOUN/r_c/poss} whiskers twitch in amusement. Oh, well, {PRONOUN/app1/subject} gleefully charge forward.",
             "stat_trait": "app1 has waited for this for moons. {PRONOUN/app1/subject/CAP} disguise {PRONOUN/app1/poss} scent and carefully work {PRONOUN/app1/poss} way through the territory, checking strategic hiding places. Before long, {PRONOUN/app1/subject} pinpoint r_c's hiding spot, and sneak behind the warrior. Without hesitation, app1 pounces on r_c and pins {PRONOUN/r_c/object} to the ground, a paw on {PRONOUN/r_c/poss} throat."
         },

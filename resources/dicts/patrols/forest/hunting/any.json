@@ -153,7 +153,7 @@
         },
         "min_cats": 1,
         "max_cats": 3,
-        "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with it's blood on their claws.",
+        "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with its blood on their claws.",
         "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
     },
     {
@@ -331,7 +331,7 @@
         "fail_text": {
             "unscathed_common": "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. The patrol waits till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
             "unscathed_stat": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
-            "death": "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
+            "death": "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, prove to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
             "injury": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
         },
         "win_skills": [
@@ -389,7 +389,7 @@
         "fail_text": {
             "unscathed_common": "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. The patrol waits till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
             "unscathed_stat": "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
-            "death": "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
+            "death": "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, prove to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
             "injury": "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
         },
         "win_skills": [
@@ -444,7 +444,7 @@
         "fail_text": {
             "unscathed_common": "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. They wait till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
             "unscathed_stat": "They track the noise to a coyote. s_c whimpers in terror at the sight of the beast and dashes away, running straight back to camp...",
-            "death": "r_c finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cat, proves to be fiercely protective of its meal.  They doesn't move fast enough and with no Clanmates to save them, r_c is quickly killed."
+            "death": "r_c finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cat, prove to be fiercely protective of its meal.  They don't move fast enough and with no Clanmates to save them, r_c is quickly killed."
         },
         "win_skills": [
             "CLEVER,2"
@@ -500,7 +500,7 @@
         "fail_text": {
             "unscathed_common": "The noise leads them to a wolf that's busy stripping the last of the meat from a carcass. The patrol waits till the wolf leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
             "unscathed_stat": "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away. The patrol follows anxiously, not wanting to lose sight of their Clanmate while a wolf is about.",
-            "death": "The patrol finds a wolf pack at the source of the noise. The wolves are tearing into a dead deer and upon seeing the cats, proves to be fiercely protective of their meal. The patrol doesn't move fast enough and r_c is killed before they can run.",
+            "death": "The patrol finds a wolf pack at the source of the noise. The wolves are tearing into a dead deer and upon seeing the cats, prove to be fiercely protective of their meal. The patrol doesn't move fast enough and r_c is killed before they can run.",
             "injury": "The sound leads them to a wolf, scavenging from a carcass. The wolf notices them before they can hide and lunges, making it clear that this food has been claimed. r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
         },
         "win_skills": [
@@ -608,7 +608,7 @@
         "fail_text": {
             "unscathed_common": "The noise leads them to a wolf that's busy stripping the last of the meat from a carcass. They wait till the wolf leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
             "unscathed_stat": "They track the noise to a wolf. s_c whimpers in terror at the sight of the beast and dashes away, running straight back to camp.",
-            "death": "r_c finds a wolf pack at the source of the noise. The pack is tearing into a deer carcass and upon seeing the cat, prove to be fiercely protective of their meal. r_c doesn't move fast enough and with no Clanmates to save them, is quickly killed."
+            "death": "r_c finds a wolf pack at the source of the noise. The pack tears into a deer carcass and upon seeing the cat, prove to be fiercely protective of their meal. r_c doesn't move fast enough and with no Clanmates to save them, is quickly killed."
         },
         "win_skills": [
             "CLEVER,2"
@@ -1045,7 +1045,7 @@
             "stat_trait": "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees."
         },
         "fail_text": {
-            "death": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
+            "death": "The patrol mostly ignores the Twolegs. As they hunt, they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
             "stat_death": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster."
         },
         "win_skills": [
@@ -1098,7 +1098,7 @@
             "stat_trait": "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees."
         },
         "fail_text": {
-            "death": "The patrol mostly ignores the Twolegs. As they hunt they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
+            "death": "The patrol mostly ignores the Twolegs. As they hunt, they hear a yelp from r_c. They've crawled into a metal Twolegs box, and there's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and r_c is taken by them.",
             "stat_death": "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? Before they can decide whether to step closer, there's a swoosh, and a net falls around them. s_c fights desperately, but the Twolegs take them away in the monster."
         },
         "win_skills": [
@@ -1199,7 +1199,7 @@
         "success_text": {
             "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
             "unscathed_rare": "A friendly Twoleg makes a psspsspss noise, and pours kittypet food on the ground for r_c. They've always wondered what it might taste like... dry, is the answer. Very odd.",
-            "stat_skill": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
+            "stat_skill": "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c takes the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
             "stat_trait": "Calmly, s_c weaves around the Twoleg dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt."
         },
         "fail_text": {
@@ -1253,7 +1253,7 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall, it works out.",
             "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app1. They've always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
             "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. A successful, sneaky hunt."
         },
@@ -1363,7 +1363,7 @@
         "chance_of_success": 30,
         "exp": 20,
         "success_text": {
-            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
+            "unscathed_common": "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall, it works out.",
             "unscathed_rare": "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app2. They fetch app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are also wide eyed and thrilled by the experience.",
             "stat_trait": "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with their belly low to the ground. app2 tries to be even sneakier, and so app1 ups their game, until they're both probably the most obvious pair of cats in the neighborhood."
         },
@@ -1709,7 +1709,7 @@
         "success_text": {
             "unscathed_common": "With a huge leap, they dart sideways and pull a blackbird out of the air. What a great catch!",
             "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised mouse.",
-            "stat_skill": "Nothing's going to escape their claws! r_c skids to a halt and then leaps into action, claw just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and trot back to camp with their prize."
+            "stat_skill": "Nothing's going to escape their claws! r_c skids to a halt and then leaps into action, claws just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and trot back to camp with their prize."
         },
         "fail_text": {
             "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the bird they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life."
@@ -1762,7 +1762,7 @@
         "success_text": {
             "unscathed_common": "With a huge leap, r_c darts sideways and pulls a blackbird out of the air. p_l trots over to congratulate them on the fantastic catch, purring.",
             "unscathed_rare": "Laughing, they bounce gleefully off a tree trunk, redirecting their momentum to slam into a very surprised mouse. p_l skids to a halt, gasping over their beautiful catch with their eyes shining.",
-            "stat_skill": "Nothing's going to escape their claws! s_c skids to a halt and then leaps into action, claw just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and pad back to r_c, sharing in the excitement of the hunt with them."
+            "stat_skill": "Nothing's going to escape their claws! s_c skids to a halt and then leaps into action, claws just barely catching in the tail of the squirrel they saw and bringing it down. They purr with satisfaction and pad back to r_c, sharing in the excitement of the hunt with them."
         },
         "fail_text": {
             "unscathed_common": "r_c skids to a halt and tries to sprint after it, but the bird they saw escapes their paws. They chatter angrily at it, and it tries to poop on them. Such is life. p_l snickers at them a bit too, but it's all in good fun."

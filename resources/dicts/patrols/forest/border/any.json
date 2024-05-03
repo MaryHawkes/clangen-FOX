@@ -400,7 +400,7 @@
                 "weight": 10,
                 "dead_cats": ["r_c"],
                 "history_text": {
-                    "reg_death": "m_c lost {PRONOUN/m_c/poss} life when {PRONOUN/m_c/subject} {PRONOUNG/m_c/lose/loses} {PRONOUN/m_c/poss} footing in the darkness of a badger sett and slide into the jaws of a badger.",
+                    "reg_death": "m_c lost {PRONOUN/m_c/poss} life when {PRONOUN/m_c/subject} {VERB/m_c/lose/loses} {PRONOUN/m_c/poss} footing in the darkness of a badger sett and slide into the jaws of a badger.",
                     "lead_death": "{VERB/m_c/were/was} killed by investigating a badger"
                 }
             },

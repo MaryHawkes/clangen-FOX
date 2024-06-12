@@ -199,60 +199,60 @@ class PatrolOutcome():
         
         return (processed_text, " ".join(results), self.get_outcome_art())
     
-    def _allowed_stat_cat_specfic(self, kitty:Cat, patrol:'Patrol', allowed_specfic) -> bool:
-        """Helper that handled specfic stat cat requriments. """
+    def _allowed_stat_cat_specific(self, kitty:Cat, patrol:'Patrol', allowed_specific) -> bool:
+        """Helper that handled specific stat cat requriments. """
 
-        if "any" in allowed_specfic:
-            # Special allowed_specfic that allows all. 
+        if "any" in allowed_specific:
+            # Special allowed_specific that allows all. 
             return True
         
-        # With allowed_specfic empty, that means the stat can can be anyone that's not patrol leader
+        # With allowed_specific empty, that means the stat can can be anyone that's not patrol leader
         # or stat cat. This can
-        if not allowed_specfic or "not_pl_rc" in allowed_specfic:
+        if not allowed_specific or "not_pl_rc" in allowed_specific:
             if kitty in (patrol.patrol_leader, patrol.patrol_random_cat):
                 return False
             return True
         
         #Code to allow anyone but p_l to be selected as stat cat
-        if not allowed_specfic or "not_pl" in allowed_specfic:
+        if not allowed_specific or "not_pl" in allowed_specific:
             if kitty is patrol.patrol_leader:
                 return False
             return True
         other_cats = [i for i in patrol.patrol_cats if i not in [patrol.patrol_leader, patrol.patrol_random_cat]]
 
-        # Otherwise, check to see if the cat matched any of the specfic cats
-        if "p_l" in allowed_specfic and kitty == patrol.patrol_leader:
+        # Otherwise, check to see if the cat matched any of the specific cats
+        if "p_l" in allowed_specific and kitty == patrol.patrol_leader:
             return True
-        if "r_c" in allowed_specfic and kitty == patrol.patrol_random_cat:
+        if "r_c" in allowed_specific and kitty == patrol.patrol_random_cat:
             return True
-        if "app1" in allowed_specfic and len(patrol.patrol_apprentices) >= 1 and \
+        if "app1" in allowed_specific and len(patrol.patrol_apprentices) >= 1 and \
                 kitty == patrol.patrol_apprentices[0]:
             return True
-        if "app2" in allowed_specfic and len(patrol.patrol_apprentices) >= 2 and \
+        if "app2" in allowed_specific and len(patrol.patrol_apprentices) >= 2 and \
                 kitty == patrol.patrol_apprentices[1]:
             return True
-        if "app3" in allowed_specfic and len(patrol.patrol_apprentices) >= 3 and \
+        if "app3" in allowed_specific and len(patrol.patrol_apprentices) >= 3 and \
                 kitty == patrol.patrol_apprentices[2]:
             return True
-        if "app4" in allowed_specfic and len(patrol.patrol_apprentices) >= 4 and \
+        if "app4" in allowed_specific and len(patrol.patrol_apprentices) >= 4 and \
                 kitty == patrol.patrol_apprentices[3]:
             return True
-        if "app5" in allowed_specfic and len(patrol.patrol_apprentices) >= 5 and \
+        if "app5" in allowed_specific and len(patrol.patrol_apprentices) >= 5 and \
                 kitty == patrol.patrol_apprentices[4]:
             return True
-        if "app6" in allowed_specfic and len(patrol.patrol_apprentices) >= 6 and \
+        if "app6" in allowed_specific and len(patrol.patrol_apprentices) >= 6 and \
                 kitty == patrol.patrol_apprentices[5]:
             return True
-        if "o_c1" in allowed_specfic and len(other_cats) >= 1 and \
+        if "o_c1" in allowed_specific and len(other_cats) >= 1 and \
                 kitty == other_cats[0]:
             return True
-        if "o_c2" in allowed_specfic and len(other_cats) >= 2 and \
+        if "o_c2" in allowed_specific and len(other_cats) >= 2 and \
                 kitty == other_cats[1]:
             return True
-        if "o_c3" in allowed_specfic and len(other_cats) >= 3 and \
+        if "o_c3" in allowed_specific and len(other_cats) >= 3 and \
                 kitty == other_cats[2]:
             return True
-        if "o_c4" in allowed_specfic and len(other_cats) >= 4 and \
+        if "o_c4" in allowed_specific and len(other_cats) >= 4 and \
                 kitty == other_cats[3]:
             return True
         
@@ -265,15 +265,15 @@ class PatrolOutcome():
         print(f"Finding stat cat. Outcome Type: Success = {self.success}, Antag = {self.antagonize}")
         print(f"Can Have Stat: {self.can_have_stat}")
         
-        # Grab any specfic stat cat requirements: 
-        allowed_specfic = [x for x in self.can_have_stat if x in 
+        # Grab any specific stat cat requirements: 
+        allowed_specific = [x for x in self.can_have_stat if x in 
                            ("r_c", "p_l", "app1", "app2", "app3", "app4", "app5", "app6", 
                              "any", "not_pl_rc", "not_pl", "o_c1", "o_c2", "o_c3", "o_c4")]
         
         # Special default behavior for patrols less than two cats.
         # Patrol leader is the only one allowed to be stat_cat in patrols equal to or less than than two cats 
-        if not allowed_specfic and len(patrol.patrol_cats) <= 2:
-            allowed_specfic = ["p_l"]
+        if not allowed_specific and len(patrol.patrol_cats) <= 2:
+            allowed_specific = ["p_l"]
 
         
         possible_stat_cats = []
@@ -289,8 +289,8 @@ class PatrolOutcome():
             if "healer" in self.can_have_stat and kitty.status not in ["medicine cat", "medicine cat apprentice"]:
                 continue
                 
-            # Then, move on the the specfic requirements. 
-            if not self._allowed_stat_cat_specfic(kitty, patrol, allowed_specfic):
+            # Then, move on the the specific requirements. 
+            if not self._allowed_stat_cat_specific(kitty, patrol, allowed_specific):
                 continue
             
             possible_stat_cats.append(kitty)
@@ -761,19 +761,19 @@ class PatrolOutcome():
             large_bonus = True
         
         # Determine which herbs get picked
-        specfic_herbs = [x for x in self.herbs if x in HERBS]
+        specific_herbs = [x for x in self.herbs if x in HERBS]
         if "random_herbs" in self.herbs:
-            specfic_herbs += random.sample(HERBS, k=choices([1, 2, 3], [6, 5, 1], k=1)[0])
+            specific_herbs += random.sample(HERBS, k=choices([1, 2, 3], [6, 5, 1], k=1)[0])
             
         # Remove duplicates
-        specfic_herbs = list(set(specfic_herbs))
+        specific_herbs = list(set(specific_herbs))
         
-        if not specfic_herbs:
+        if not specific_herbs:
             print(f"{self.herbs} - gave no herbs to give")
             return ""
         
         patrol_size_modifier = int(len(patrol.patrol_cats) * .5)
-        for _herb in specfic_herbs:
+        for _herb in specific_herbs:
             if large_bonus:
                 amount_gotten = 4
             else:
@@ -789,17 +789,17 @@ class PatrolOutcome():
 
         plural_herbs_list = ['cobwebs', 'oak leaves']
         
-        if len(specfic_herbs) == 1 and specfic_herbs[0] not in plural_herbs_list:
-            insert = f"{specfic_herbs[0]} was"
-        elif len(specfic_herbs) == 1 and specfic_herbs[0] in plural_herbs_list:
-            insert = f"{specfic_herbs[0]} were"
-        elif len(specfic_herbs) == 2:
-            if str(specfic_herbs[0]) == str(specfic_herbs[1]):
-                insert = f"{specfic_herbs[0]} was"
+        if len(specific_herbs) == 1 and specific_herbs[0] not in plural_herbs_list:
+            insert = f"{specific_herbs[0]} was"
+        elif len(specific_herbs) == 1 and specific_herbs[0] in plural_herbs_list:
+            insert = f"{specific_herbs[0]} were"
+        elif len(specific_herbs) == 2:
+            if str(specific_herbs[0]) == str(specific_herbs[1]):
+                insert = f"{specific_herbs[0]} was"
             else:
-                insert = f"{specfic_herbs[0]} and {specfic_herbs[1]} were"
+                insert = f"{specific_herbs[0]} and {specific_herbs[1]} were"
         else:
-            insert = f"{', '.join(specfic_herbs[:-1])}, and {specfic_herbs[-1]} were"
+            insert = f"{', '.join(specific_herbs[:-1])}, and {specific_herbs[-1]} were"
 
         insert = re.sub("[_]", " ", insert)
         

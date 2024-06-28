@@ -305,43 +305,6 @@ class PatrolOutcome:
             return True
         
         return False
-    
-    def _get_stat_cat(self, patrol: 'Patrol') -> bool:
-        """Sets the stat cat. Returns true if a stat cat was found, and False is a stat cat was not found """
-        
-        print("---")
-        print(f"Finding stat cat. Outcome Type: Success = {self.success}, Antag = {self.antagonize}")
-        print(f"Can Have Stat: {self.can_have_stat}")
-        
-        # Grab any specific stat cat requirements: 
-        allowed_specific = [x for x in self.can_have_stat if x in 
-                           ("r_c", "p_l", "app1", "app2", "app3", "app4", "app5", "app6", 
-                             "any", "not_pl_rc", "not_pl", "o_c1", "o_c2", "o_c3", "o_c4")]
-        
-        # Special default behavior for patrols less than two cats.
-        # Patrol leader is the only one allowed to be stat_cat in patrols equal to or less than than two cats 
-        if not allowed_specific and len(patrol.patrol_cats) <= 2:
-            allowed_specific = ["p_l"]
-
-        # Otherwise, check to see if the cat matched any of the specific cats
-        if "p_l" in allowed_specific and kitty == patrol.patrol_leader:
-            return True
-        if "r_c" in allowed_specific and kitty == patrol.random_cat:
-            return True
-        if (
-            "app1" in allowed_specific
-            and len(patrol.patrol_apprentices) >= 1
-            and kitty == patrol.patrol_apprentices[0]
-        ):
-            return True
-        if (
-            "app2" in allowed_specific
-            and len(patrol.patrol_apprentices) >= 2
-            and kitty == patrol.patrol_apprentices[1]
-        ):
-            return True
-
-        return False
 
     def _get_stat_cat(self, patrol: "Patrol"):
         """Sets the stat cat. Returns true if a stat cat was found, and False is a stat cat was not found"""
@@ -356,7 +319,8 @@ class PatrolOutcome:
         allowed_specific = [
             x
             for x in self.can_have_stat
-            if x in ("r_c", "p_l", "app1", "app2", "any", "not_pl_rc")
+            if x in ("r_c", "p_l", "app1", "app2", "app3", "app4", "app5", "app6", 
+                             "any", "not_pl_rc", "not_pl", "o_c1", "o_c2", "o_c3", "o_c4")
         ]
 
         # Special default behavior for patrols less than two cats.

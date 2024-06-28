@@ -268,39 +268,39 @@ class PatrolOutcome:
             return True
         other_cats = [i for i in patrol.patrol_cats if i not in [patrol.patrol_leader, patrol.patrol_random_cat]]
 
-        # Otherwise, check to see if the cat matched any of the specfic cats
-        if "p_l" in allowed_specfic and kitty == patrol.patrol_leader:
+        # Otherwise, check to see if the cat matched any of the specific cats
+        if "p_l" in allowed_specific and kitty == patrol.patrol_leader:
             return True
-        if "r_c" in allowed_specfic and kitty == patrol.patrol_random_cat:
+        if "r_c" in allowed_specific and kitty == patrol.patrol_random_cat:
             return True
-        if "app1" in allowed_specfic and len(patrol.patrol_apprentices) >= 1 and \
+        if "app1" in allowed_specific and len(patrol.patrol_apprentices) >= 1 and \
                 kitty == patrol.patrol_apprentices[0]:
             return True
-        if "app2" in allowed_specfic and len(patrol.patrol_apprentices) >= 2 and \
+        if "app2" in allowed_specific and len(patrol.patrol_apprentices) >= 2 and \
                 kitty == patrol.patrol_apprentices[1]:
             return True
-        if "app3" in allowed_specfic and len(patrol.patrol_apprentices) >= 3 and \
+        if "app3" in allowed_specific and len(patrol.patrol_apprentices) >= 3 and \
                 kitty == patrol.patrol_apprentices[2]:
             return True
-        if "app4" in allowed_specfic and len(patrol.patrol_apprentices) >= 4 and \
+        if "app4" in allowed_specific and len(patrol.patrol_apprentices) >= 4 and \
                 kitty == patrol.patrol_apprentices[3]:
             return True
-        if "app5" in allowed_specfic and len(patrol.patrol_apprentices) >= 5 and \
+        if "app5" in allowed_specific and len(patrol.patrol_apprentices) >= 5 and \
                 kitty == patrol.patrol_apprentices[4]:
             return True
-        if "app6" in allowed_specfic and len(patrol.patrol_apprentices) >= 6 and \
+        if "app6" in allowed_specific and len(patrol.patrol_apprentices) >= 6 and \
                 kitty == patrol.patrol_apprentices[5]:
             return True
-        if "o_c1" in allowed_specfic and len(other_cats) >= 1 and \
+        if "o_c1" in allowed_specific and len(other_cats) >= 1 and \
                 kitty == other_cats[0]:
             return True
-        if "o_c2" in allowed_specfic and len(other_cats) >= 2 and \
+        if "o_c2" in allowed_specific and len(other_cats) >= 2 and \
                 kitty == other_cats[1]:
             return True
-        if "o_c3" in allowed_specfic and len(other_cats) >= 3 and \
+        if "o_c3" in allowed_specific and len(other_cats) >= 3 and \
                 kitty == other_cats[2]:
             return True
-        if "o_c4" in allowed_specfic and len(other_cats) >= 4 and \
+        if "o_c4" in allowed_specific and len(other_cats) >= 4 and \
                 kitty == other_cats[3]:
             return True
         
@@ -313,17 +313,17 @@ class PatrolOutcome:
         print(f"Finding stat cat. Outcome Type: Success = {self.success}, Antag = {self.antagonize}")
         print(f"Can Have Stat: {self.can_have_stat}")
         
-        # Grab any specfic stat cat requirements: 
-        allowed_specfic = [x for x in self.can_have_stat if x in 
+        # Grab any specific stat cat requirements: 
+        allowed_specific = [x for x in self.can_have_stat if x in 
                            ("r_c", "p_l", "app1", "app2", "app3", "app4", "app5", "app6", 
                              "any", "not_pl_rc", "not_pl", "o_c1", "o_c2", "o_c3", "o_c4")]
         
         # Special default behavior for patrols less than two cats.
         # Patrol leader is the only one allowed to be stat_cat in patrols equal to or less than than two cats 
-        if not allowed_specfic and len(patrol.patrol_cats) <= 2:
-            allowed_specfic = ["p_l"]
+        if not allowed_specific and len(patrol.patrol_cats) <= 2:
+            allowed_specific = ["p_l"]
 
-        # Otherwise, check to see if the cat matched any of the specfic cats
+        # Otherwise, check to see if the cat matched any of the specific cats
         if "p_l" in allowed_specific and kitty == patrol.patrol_leader:
             return True
         if "r_c" in allowed_specific and kitty == patrol.random_cat:
@@ -352,7 +352,7 @@ class PatrolOutcome:
         )
         print(f"Can Have Stat: {self.can_have_stat}")
 
-        # Grab any specfic stat cat requirements:
+        # Grab any specific stat cat requirements:
         allowed_specific = [
             x
             for x in self.can_have_stat
